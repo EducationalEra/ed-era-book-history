@@ -1,19 +1,8 @@
-# history_1
-
-![image](EdEra.pdf)
-
-=[rectangle,rounded corners,draw = EdErablue,top color = white, bottom
-color=EdEraorange,very thick, inner sep=0.3em, text centered, minimum
-height=4em, text=EdErablue, text width=2.2cm,align=center]
-=[rectangle,rounded corners,,very thick, inner sep=0.3em, text centered,
-anchor=north, text=black, text width=3cm] =[-, thick, color = EdErablue]
-
-Поява та поселення людей на території України
-=============================================
+# Поява та поселення людей на території України
 
 Історія людства починається з появою першої людини. Археологічні
-знахідки вказують на те, що перша людина – *Homo habilis*(*Людина
-уміла*) – з’явилася близько 2 млн років тому в південно-східній Африці,
+знахідки вказують на те, що перша людина – *Homo habilis (Людина
+уміла)* – з’явилася близько 2 млн років тому в південно-східній Африці,
 звідки розселилася по всій земній кулі. На територію сучасної України
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
@@ -27,6 +16,7 @@ anchor=north, text=black, text width=3cm] =[-, thick, color = EdErablue]
 
 Паростки цивілізації
 --------------------
+
 
 ### Кам’яний вік
 
