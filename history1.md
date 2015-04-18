@@ -12,7 +12,8 @@
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
 ![image][tab1]
-<!---[tab1] https://github.com/chudaol/ed-era-book-history/blob/master/images/EdEra.pdf --->
+[tab1]: http://apa.photo/wp-content/uploads/2015/04/18fe8569ee1251ab32410fb1cfdcccb9.jpg
+<!---[tab1] http://apa.photo/wp-content/uploads/2015/04/18fe8569ee1251ab32410fb1cfdcccb9.jpg --->
 ![image](tab2)
 
 Паростки цивілізації
