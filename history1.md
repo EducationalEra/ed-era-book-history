@@ -12,7 +12,7 @@
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
 ![image][tab1]
-[tab1]: http://apa.photo/wp-content/uploads/2015/04/18fe8569ee1251ab32410fb1cfdcccb9.jpg
+[tab1]: http://fs173.www.ex.ua/get/389436508060/cda24056d650d114d549b118a1e2f9f3/160967726/EdEra.svg
 <!---[tab1] http://apa.photo/wp-content/uploads/2015/04/18fe8569ee1251ab32410fb1cfdcccb9.jpg --->
 ![image](tab2)
 
