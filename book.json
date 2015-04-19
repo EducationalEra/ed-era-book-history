@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "mathjax4us"
+        "mathjax4us",
+        "mathjax4us2"
     ],
     "pluginsConfig": {}
 }
