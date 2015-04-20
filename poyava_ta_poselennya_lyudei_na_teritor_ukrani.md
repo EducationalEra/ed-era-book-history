@@ -13,21 +13,12 @@
 
 
 ![image][tab1]
-[tab1]: ./images/1.jpg
+[tab1]: ./images/tab1.png
 
 
 
 ![image][tab2]
-![](tab2.svg)
-
-
-<!--[tab2]: -->
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| ![image][tab1]     | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+[tab2]: https://rawgit.com/chudaol/ed-era-book-history/master/images/tab2.svg
 
 
 
