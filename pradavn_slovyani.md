@@ -7,7 +7,7 @@
 
 
 <div  align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="400" />
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="400" >
 </div>
 
 У VI ст. стають відомими перші слов’янські племена: анти, венеди та
