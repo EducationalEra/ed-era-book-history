@@ -1,10 +1,11 @@
 # Summary
 
-* [introduction](1/README.md)
-* [Поява та поселення людей на території України](1/poyava_ta_poselennya_lyudei_na_teritor_ukrani.md)
-   * [Паростки цивілізації](parostki_tsivlzats.md)
+* [introduction](README.md)
+* [Поява та поселення людей на території України](poyava_ta_poselennya_lyudei_na_teritor_ukrani.md)
+   * [Паростки цивілізації](1/parostki_tsivlzats.md)
    * [Кіммерійці](kimmerits.md)
    * [Скіфи](skfi.md)
    * [Сармати](sarmati.md)
 * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
 * [Прадавні слов'яни](pradavn_slovyani.md)
+
