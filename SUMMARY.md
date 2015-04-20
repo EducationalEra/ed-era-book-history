@@ -8,5 +8,4 @@
    * [Сармати](sarmati.md)
 * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
 * [Прадавні слов'яни](pradavn_slovyani.md)
-* [SUMMARY](summary.md)
 
