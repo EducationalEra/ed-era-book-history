@@ -6,7 +6,7 @@
 та Азовського морів. Цей процес має назву «Велика грецька колонізація».
 
 
-<table bgcolor="#FFFFFF">
+<table>
   <tr>
     <th>Month</th>
     <th>Savings</th>
