@@ -5,8 +5,10 @@
 вірогід-ним здається їх виокремлення із автохтонного індоєвропейського
 населення Східної Європи.
 
-![image][slovv1]
-[slovv1]:https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg
+
+<div  align="center">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="400" />
+</div>
 
 У VI ст. стають відомими перші слов’янські племена: анти, венеди та
 склавини з Подніпров’я, берегів Вісли та Подунав’я відповідно.
