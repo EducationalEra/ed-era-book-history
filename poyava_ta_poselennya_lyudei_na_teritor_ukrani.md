@@ -40,7 +40,8 @@
 *с. Лука-Врублівецька (Хмельницька обл.), с. Королеве (Закарпатська
 обл.)*
 
-![image](pic1)
+![image][pic1]
+[pic1]: https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg
 
 
 ### Середній палеоліт {#середній-палеоліт .unnumbered}
@@ -58,7 +59,8 @@
 **Стоянки (200):**
 *Киїк-Коба (Крим), Рихта (Волинь), Червоний Яр та Деркул (Донбас)*
 
-![image](pic2)
+![image][pic2]
+[pic2]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg
 
 
 Зважаючи на суворі природні умови, люди починають виготовляти одяг,
@@ -88,7 +90,8 @@
 *Мізинська (Чернігівська обл.), Радомишльська (Житомирська обл.),*
 *Межиричі (Київська обл.)*
 
-![image](pic3)
+![image][pic3]
+[pic3]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg
 
 
 Вірування та мистецтво стрімко розвиваються, хоча й лишаються
@@ -114,7 +117,8 @@
 **Стоянки (1000):**
 *Мурзак-Коба, Фатьма-Коба (Крим), Гребінківська стоянка (Одещщина)*
 
-![image](pic4)
+![image][pic4]
+[pic4]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg
 
 
 ### Неоліт {#неоліт .unnumbered}
