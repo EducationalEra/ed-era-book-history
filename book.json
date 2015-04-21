@@ -4,5 +4,6 @@
         "mathjax",
         "youtube"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "books.css": [ed-era.css]
 }
