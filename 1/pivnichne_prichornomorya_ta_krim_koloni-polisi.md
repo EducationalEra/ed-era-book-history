@@ -7,7 +7,6 @@
 
 
 <div class="eoz">
- <p style="color: #ffffff; background-color: #ffffff">Text color: black, background-color: white</p>
 Полiс — мiсто-держава, мiська громада; особлива форма соцiально-економiчної
 та полiтичної органiзацiї суспiльства, типова для Стародавньої Грецiї та Риму.
 </div></br>
