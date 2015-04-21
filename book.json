@@ -3,11 +3,11 @@
         "mathjax4us",
         "mathjax",
         "youtube",
-        "comscore"
+        "customtheme"
     ],
-    "pluginsConfig": {},
-    "styles": {
-        "website": "website.css"
-        
+    "pluginsConfig": {
+    "customtheme": {
+       "css": ['website.css']
+    }
     }
 }
