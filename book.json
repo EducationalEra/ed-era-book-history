@@ -6,5 +6,8 @@
         "comscore"
     ],
     "pluginsConfig": {},
-    "books.css": ["ed-era.css"]
+    "styles": {
+        "website": "website.css"
+        
+    }
 }
