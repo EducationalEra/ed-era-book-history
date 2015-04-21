@@ -6,8 +6,8 @@
         "customtheme"
     ],
     "pluginsConfig": {
-    "customtheme": {
-       "css": ['website.css']
-    }
+        "customtheme": {
+           "css": ["website.css"]
+        }
     }
 }
