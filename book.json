@@ -4,5 +4,8 @@
         "mathjax",
         "youtube"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "styles": {
+  "website": "styles/ed-era.css" 
+}
 }
