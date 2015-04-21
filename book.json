@@ -2,7 +2,8 @@
     "plugins": [
         "mathjax4us",
         "mathjax",
-        "youtube"
+        "youtube",
+        "comscore"
     ],
     "pluginsConfig": {},
     "books.css": ["ed-era.css"]
