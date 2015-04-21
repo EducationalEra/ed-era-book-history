@@ -5,7 +5,7 @@
 України – кіммерійців.
 
 ![image][pic7]
-[pic7]: https://rawgit.com/chudaol/ed-era-book-history/master/images/pic8.svg
+[pic7]: https://rawgit.com/chudaol/ed-era-book-history/master/images/pic7.svg
 
 Кіммерійці були кочовими скотарями та чудовими наїзниками. Розпочали
 залізну добу на території України. Здійснювали успішні походи в Малу
