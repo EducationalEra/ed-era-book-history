@@ -7,7 +7,7 @@
     ],
     "pluginsConfig": {
         "customtheme": {
-           "css": {"0": "/website.css"}
+           "css": ['custom/css/style.css']
         }
     }
 }
