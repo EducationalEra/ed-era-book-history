@@ -12,8 +12,9 @@
 степи. Освоївшись та підкоривши місцеві племена, скіфи об’єднались у
 Велику Скіфію, що проіснувала до ІІІ ст. до н.е.
 
-![image][pic8]
-[pic8]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic8.svg
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic8.svg" />
+</div>
 
 Частина скіфів була осідлою, частина – кочівною. Геродот, відвідавши
 Велику Скіфію, виділив декілька видів скіфів: скіфи-кочівники,
