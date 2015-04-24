@@ -17,7 +17,7 @@
 обл.)*
 
 <div style="background-color: #ffffff;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg"/>
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg">
 </div>
 
 
@@ -155,8 +155,8 @@
 екстенсивним господарюванням: місця проживання змінювалися щосторіччя
 через виснаженість господарських угідь.
 
-<div align="center" style="background-color: #ffffff;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="400">
+<div style="background-color: #ffffff;">
+<img  src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" align="center">
 </div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
