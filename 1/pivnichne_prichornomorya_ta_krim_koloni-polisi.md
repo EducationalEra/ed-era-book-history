@@ -14,7 +14,7 @@
 крупними містами стали **Ольвія**, **Тіра**, **Херсонес**,
 **Пантикапей** та **Феодосія**.
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg"/>
 </div>
 
