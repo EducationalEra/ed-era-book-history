@@ -128,7 +128,7 @@
 *Пам’ятки неолітичної культури: с. Микільська Слобідка на Київщині та
 Кам’яна Могила у Приазов’ї.*
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic5.svg" />
 </div>
 
