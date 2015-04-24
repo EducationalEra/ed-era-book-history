@@ -156,7 +156,7 @@
 через виснаженість господарських угідь.
 
 <div style="background-color: #ffffff;">
-<img align="center" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="400" />
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" align="right">
 </div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
