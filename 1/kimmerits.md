@@ -5,7 +5,7 @@
 України – кіммерійців.
 
 <div style="background-color: #ffffff;">
-<img scr="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic7.svg" />
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic7.svg" />
 </div>
 
 Кіммерійці були кочовими скотарями та чудовими наїзниками. Розпочали
