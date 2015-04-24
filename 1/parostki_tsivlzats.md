@@ -16,12 +16,10 @@
 *с. Лука-Врублівецька (Хмельницька обл.), с. Королеве (Закарпатська
 обл.)*
 
-<div style="background-color: #b0c4de;">
+<div style="background-color: #ffffff;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg"/>
 </div>
 
-![image][pic1]
-[pic1]: https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg
 
 ### Середній палеоліт {#середній-палеоліт .unnumbered}
 
@@ -38,9 +36,9 @@
 **Стоянки (200):**
 *Киїк-Коба (Крим), Рихта (Волинь), Червоний Яр та Деркул (Донбас)*
 
-![image][pic2]
-[pic2]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg
-
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg" />
+</div>
 
 Зважаючи на суворі природні умови, люди починають виготовляти одяг,
 видобувати вогонь, освоювати печери, будувати наземні житла.
