@@ -6,7 +6,7 @@
 населення Східної Європи.
 
 
-<div style="background-color: #ffffff;">
+<div align="center" style="background-color: #ffffff;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="400" >
 </div>
 
@@ -30,10 +30,9 @@ VII ст. заволодівши Балканами та тримаючи у с�
 слов’ян: західній, східній і південній. Саме східні племена – древляни,
 тиверці, уличі, волиняни – були пращурами українців.
 
-<div align="center">
+<div align="center" style="background-color: #ffffff;">
 <!--![image][slov2]
 [slov2]:https://rawgit.com/chudaol/ed-era-book-history/master/images/slov2.svg-->
-
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slov2.svg" width="340" >
 </div>
 
