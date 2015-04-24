@@ -67,7 +67,7 @@
 *Мізинська (Чернігівська обл.), Радомишльська (Житомирська обл.),*
 *Межиричі (Київська обл.)*
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
 </div>
 
