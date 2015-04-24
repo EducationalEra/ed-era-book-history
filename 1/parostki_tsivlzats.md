@@ -95,7 +95,7 @@
 **Стоянки (1000):**
 *Мурзак-Коба, Фатьма-Коба (Крим), Гребінківська стоянка (Одещщина)*
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
 </div>
 
