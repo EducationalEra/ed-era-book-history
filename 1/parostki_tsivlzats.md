@@ -19,7 +19,6 @@
 ![image][pic1]
 [pic1]: https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg
 
-
 ### Середній палеоліт {#середній-палеоліт .unnumbered}
 
 Пройшов під знаком сухого та холодного клімату і, як наслідок,
