@@ -14,7 +14,7 @@
 </div>
 <p>sadasdasd  saad  ASD s as</p>
 
-<div style="background-color: #ffffff;">
+<div style="background-color: #00ffff;">
 Полiс — мiсто-держава, мiська громада; особлива форма соцiально-економiчної та полiтичної органiзацiї суспiльства, типова для Стародавньої Грецiї та Риму.
 
 
