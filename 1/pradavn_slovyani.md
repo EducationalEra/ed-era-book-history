@@ -29,8 +29,8 @@ VII ст. заволодівши Балканами та тримаючи у с�
 слов’ян: західній, східній і південній. Саме східні племена – древляни,
 тиверці, уличі, волиняни – були пращурами українців.
 
-<div align="center" style="background-color: #ffffff;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slov2.svg" width="340" >
+<div align="center">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slov2.svg" width="340" style="background: #ffffff;">
 </div>
 
 Східні слов’яни були переважно землеробами з прототипом приватної
