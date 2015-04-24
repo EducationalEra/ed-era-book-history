@@ -16,7 +16,7 @@
 *с. Лука-Врублівецька (Хмельницька обл.), с. Королеве (Закарпатська
 обл.)*
 
-<div style="background-color: #b0c4de;">
+<div style="background-color: #ffffff;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg"/>
 </div>
 
