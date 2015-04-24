@@ -14,8 +14,9 @@
 Культура була здебільшого наслідною до скіфської, проте військові
 рішення були новими і прогресивними.
 
-![image][sarmaty]
-[sarmaty]:https://rawgit.com/chudaol/ed-era-book-history/master/images/sarmaty.svg
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/sarmaty.svg"/>
+</div>
 
 
 
