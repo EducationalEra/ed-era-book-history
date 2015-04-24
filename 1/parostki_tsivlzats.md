@@ -155,8 +155,8 @@
 екстенсивним господарюванням: місця проживання змінювалися щосторіччя
 через виснаженість господарських угідь.
 
-<div align="center" style="background-color: #ffffff;" width="400">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="400" />
+<div style="background-color: #ffffff;" width="400">
+<img align="center" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="400" />
 </div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
