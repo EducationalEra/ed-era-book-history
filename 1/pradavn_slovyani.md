@@ -5,7 +5,7 @@
 населення Східної Європи.
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="450" style="background: rgba(0,0,0,0.07);"/>
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="450" style="background: #FAFAFA;"/>
 </div>
 </div>
 
