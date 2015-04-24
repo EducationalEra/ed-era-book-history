@@ -67,8 +67,9 @@
 *Мізинська (Чернігівська обл.), Радомишльська (Житомирська обл.),*
 *Межиричі (Київська обл.)*
 
-![image][pic3]
-[pic3]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
+</div>
 
 
 Вірування та мистецтво стрімко розвиваються, хоча й лишаються
@@ -94,8 +95,9 @@
 **Стоянки (1000):**
 *Мурзак-Коба, Фатьма-Коба (Крим), Гребінківська стоянка (Одещщина)*
 
-![image][pic4]
-[pic4]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
+</div>
 
 
 ### Неоліт {#неоліт .unnumbered}
