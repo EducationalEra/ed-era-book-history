@@ -155,7 +155,7 @@
 екстенсивним господарюванням: місця проживання змінювалися щосторіччя
 через виснаженість господарських угідь.
 
-<div style="background-color: #ffffff;" width="400">
+<div style="background-color: #ffffff;">
 <img align="center" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="400" />
 </div>
 
