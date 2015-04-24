@@ -36,7 +36,7 @@
 **Стоянки (200):**
 *Киїк-Коба (Крим), Рихта (Волинь), Червоний Яр та Деркул (Донбас)*
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg" />
 </div>
 
