@@ -1,12 +1,11 @@
 Прадавні слов’яни
 =================
-
 Походження перших слов’ян і досі викликають суперечки, проте найбільш
 вірогід-ним здається їх виокремлення із автохтонного індоєвропейського
 населення Східної Європи.
 
 <div align="center">
-<style="background-color: #ffffff;"><img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="450"/></style>
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg"/>
 </div>
 </div>
 
