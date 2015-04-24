@@ -7,7 +7,7 @@
 
 <div align="center">
 <div style="background-color: #ffffff;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="400" >
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" width="450" >
 </div>
 </div>
 
