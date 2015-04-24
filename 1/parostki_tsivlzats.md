@@ -128,8 +128,9 @@
 *Пам’ятки неолітичної культури: с. Микільська Слобідка на Київщині та
 Кам’яна Могила у Приазов’ї.*
 
-![image][pic5]
-[pic5]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic5.svg
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic5.svg" />
+</div>
 
 
 ### Енеоліт (мідний вік)
@@ -154,8 +155,9 @@
 екстенсивним господарюванням: місця проживання змінювалися щосторіччя
 через виснаженість господарських угідь.
 
-![image][pic6]
-[pic6]:https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg
+<div style="background-color: #ffffff;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" />
+</div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
 великою декількапарною сім’єю, створюється певна ієрархія родів,
