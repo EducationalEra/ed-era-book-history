@@ -12,7 +12,7 @@
 степи. Освоївшись та підкоривши місцеві племена, скіфи об’єднались у
 Велику Скіфію, що проіснувала до ІІІ ст. до н.е.
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic8.svg" />
 </div>
 
