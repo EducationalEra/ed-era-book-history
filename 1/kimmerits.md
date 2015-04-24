@@ -4,7 +4,7 @@
 Геродот та Гомер у своїх творах згадують про перший етнос на території
 України – кіммерійців.
 
-<div style="background-color: #ffffff;">
+<div style="background: #FAFAFA;">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic7.svg" />
 </div>
 
