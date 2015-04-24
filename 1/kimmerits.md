@@ -4,8 +4,9 @@
 Геродот та Гомер у своїх творах згадують про перший етнос на території
 України – кіммерійців.
 
-![image][pic7]
-[pic7]: https://rawgit.com/chudaol/ed-era-book-history/master/images/pic7.svg
+<div style="background-color: #ffffff;">
+<img scr="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic7.svg" />
+</div>
 
 Кіммерійці були кочовими скотарями та чудовими наїзниками. Розпочали
 залізну добу на території України. Здійснювали успішні походи в Малу
