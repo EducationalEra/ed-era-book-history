@@ -6,7 +6,7 @@
    * [Кіммерійці](1/kimmerits.md)
    * [Скіфи](1/skfi.md)
    * [Сармати](1/sarmati.md)
-   * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
+   * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](1/pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
    * [Прадавні слов’яни](1/pradavn_slovyani.md)
 * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](1/pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
 * [Прадавні слов'яни](1/pradavn_slovyani.md)
