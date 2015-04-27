@@ -10,3 +10,6 @@
 * [Прадавні слов'яни](1/pradavn_slovyani.md)
 * [SUmm](SUM.md)
 
+<html>
+<p>Дайте денег</p>
+</html>
