@@ -1,8 +1,6 @@
 Паростки цивілізації
 --------------------
-{% youtube %}
-https://www.youtube.com/watch?v=RVWmbH8ekv8
-{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=RVWmbH8ekv8{% endyoutube %}
 
 ### Кам’яний вік
 
