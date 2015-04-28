@@ -9,14 +9,14 @@
     font-weight: bold;
     width:7.2em;
     padding-left:10px;
-    padding-top:.5em;
-    padding-bottom:.5em;
     /*margin-bottom:-5px;*/
 }
 .ozn-text {
-      text-align: center;
-      vertical-align: middle;
-      line-height: 2em;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 2em;
+    padding-top:.5em;
+    padding-bottom:.5em;
 }
 .eoz {
     margin-top:-5px;
