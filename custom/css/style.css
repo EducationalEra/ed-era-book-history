@@ -10,6 +10,7 @@ eoz.span {
     background: #0F5181;
     border: 1px solid #0F5181;
     color:white;
+    font-weight: bold;
     text-transform: uppercase;
 }
 
