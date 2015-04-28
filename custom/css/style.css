@@ -1,7 +1,12 @@
 .eoz {
-    color:black;
-    background-color:#EEEEEE;
+    width:100%;
+    background: #FAFAFA;
+    border: 2px solid #0F5181;
+    
 }
+
+/* Rectangle 1: */
+
 
 #eoz {
     color:#0000FF;
