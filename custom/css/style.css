@@ -1,22 +1,24 @@
+/*Означення*/
 .eoz-wrap{
     margin-bottom:1em;
 }
-
 .ozn {
     background: #0F5181;
     border: 1px solid #0F5181;
     color:white;
     font-weight: bold;
-    /*text-transform: uppercase;*/
-    margin-bottom:-2.5px;
+    /*padding:3px;
+    margin-bottom:-5px;*/
 }
-
 .eoz {
+    margin-top:-5px;
     width:100%;
     background: #FAFAFA;
     border: 1px solid #0F5181;
 }
 
-#eoz {
-    color:#0000FF;
-}
+/*Авторський алгоритм*/
+
+
+
+/*Авторський алгоритм*/
