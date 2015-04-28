@@ -1,5 +1,6 @@
-eoz {
+.eoz {
     color:red;
+    background-color:black;
 }
 
 #eoz {
@@ -7,5 +8,6 @@ eoz {
 }
 
 p {
+    background-color:black;
     color:red;
 }
