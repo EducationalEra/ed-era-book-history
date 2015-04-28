@@ -7,9 +7,14 @@
     border: 1px solid #0F5181;
     color:white;
     font-weight: bold;
-    width:7em;
+    width:5.7em;
     /*padding:3px;
     margin-bottom:-5px;*/
+}
+.ozn-text {
+      text-align: center;
+      vertical-align: middle;
+      line-height: 2em;
 }
 .eoz {
     margin-top:-5px;
