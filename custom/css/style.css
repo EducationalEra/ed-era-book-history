@@ -8,7 +8,10 @@
     color:white;
     font-weight: bold;
     width:7em;
-    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
     /*padding:3px;
     margin-bottom:-5px;*/
 }
