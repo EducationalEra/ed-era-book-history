@@ -19,10 +19,9 @@
 }
 .eoz {
     margin-top:-5px;
-    padding:0.1em;
     width:100%;
     background: #FAFAFA;
-    border: 1px solid #0F5181;
+    border: .1em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
 }
