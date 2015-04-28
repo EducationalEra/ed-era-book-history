@@ -1,9 +1,4 @@
-
-
-.eoz {
-    width:100%;
-    background: #FAFAFA;
-    border: 1px solid #0F5181;
+.eoz-wrap{
 }
 
 .ozn {
@@ -12,6 +7,12 @@
     color:white;
     font-weight: bold;
     text-transform: uppercase;
+}
+
+.eoz {
+    width:100%;
+    background: #FAFAFA;
+    border: 1px solid #0F5181;
 }
 
 #eoz {
