@@ -39,9 +39,7 @@ sa dasd sa </p>
 </div>
 
 <div class="alg-wrap">
-<div class="alg">
-Авторський алгоритм
-</div>
+<span class="alg">Авторський алгоритм</span>
 <div class="alg-text">
 <p>АВ asdas dsa das da sda sd asd  выфв as da
 в asd as вssa das в</p>
