@@ -3,7 +3,7 @@
     margin-bottom:1em;
 }
 .eoz {
-    background: #ffffff;
+    background: #0F5181;
     border: 0.1em solid #0F5181;
     color:white;
     font-weight: bold;
@@ -38,7 +38,7 @@
 .task-text {
     margin-top:-5px;
     width:100%;
-    background: #FAFAFA;
+    background: #fff;
     border-left: .1em solid #faaf00;
     padding-left:10px;
     padding-right:10px;
