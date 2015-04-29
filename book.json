@@ -8,4 +8,20 @@
             "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/custom.js"]
         }
     }
+    "links": {
+         // Link to home in the top-left corner
+         "home": null,
+ 
+         // Links in top of sidebar
+         "about": null,
+         "issues": null,
+         "contribute": null,
+ 
+         // Sharing links
+         "sharing": {
+             "google": "https://github.com/GitbookIO/gitbook/commit/7416b826e073712cf30e8734f5358e25226f5f3d",
+             "facebook": null,
+             "twitter": null
+         }
+     }
 }
