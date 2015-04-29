@@ -30,7 +30,7 @@ VII ст. заволодівши Балканами та тримаючи у с�
 тиверці, уличі, волиняни – були пращурами українців.
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slov2.svg" width="340" style="background: #FAFAFA;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slov2.svg" width="340" class="image">
 </div>
 
 Східні слов’яни були переважно землеробами з прототипом приватної
