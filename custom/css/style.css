@@ -51,11 +51,10 @@
     color:white;
     font-weight: bold;
     padding-left:10px;
-    
+    padding-right:10px;
     margin-bottom:5px;
 }
 .alg-text {
-    margin-top:-5px;
     width:100%;
     background: #fff;
     border-top: .15em solid #faaf00;
