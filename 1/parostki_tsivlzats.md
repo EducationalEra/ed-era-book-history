@@ -65,9 +65,9 @@
 *Мізинська (Чернігівська обл.), Радомишльська (Житомирська обл.),*
 *Межиричі (Київська обл.)*
 
-<div style="background: #FAFAFA;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
-</div>
+
+<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
+
 
 
 Вірування та мистецтво стрімко розвиваються, хоча й лишаються
