@@ -33,7 +33,7 @@ sa dasd sa </p>
 Додатково
 </div>
 <div class="add-text">
-<p>asdas dsa das da sda sd asd  выфв as da
+<p>АВ asdas dsa das da sda sd asd  выфв as da
 в asd as вssa das в</p>
 <p>asd asdasd 
 sa dasd sa </p>
