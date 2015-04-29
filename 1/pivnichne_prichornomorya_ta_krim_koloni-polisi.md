@@ -30,7 +30,7 @@ sa dasd sa </p>
 
 <div class="add-wrap">
 <div class="add">
-Задача
+Додатково
 </div>
 <div class="add-text">
 <p>asdas dsa das da sda sd asd  выфв as da
