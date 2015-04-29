@@ -16,9 +16,7 @@
 </div>
 
 <div class="task-wrap">
-<div class="task">
-Задача
-</div>
+<span class="task">Задача</span>
 <div class="task-text">
 <p>asdas dsa das da sda sd asd  выфв as da
 в asd as вssa das в</p>
