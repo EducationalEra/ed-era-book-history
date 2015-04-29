@@ -29,7 +29,7 @@ sa dasd sa </p>
 
 
 <div class="add-wrap">
-<p class="add">Додатково</p>
+<span class="add">Додатково</span>
 <div class="add-text">
 <p>АВ asdas dsa das da sda sd asd  выфв as da
 в asd as вssa das в</p>
