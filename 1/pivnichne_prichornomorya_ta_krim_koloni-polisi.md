@@ -40,7 +40,17 @@ sa dasd sa </p>
 </div>
 </div>
 
-
+<div class="alg-wrap">
+<div class="alg">
+Авторський алгоритм
+</div>
+<div class="alg-text">
+<p>АВ asdas dsa das da sda sd asd  выфв as da
+в asd as вssa das в</p>
+<p>asd asdasd 
+sa dasd sa </p>
+</div>
+</div>
 
 Першим давньогрецьким полісом на території України стало місто
 **Борисфеніда** (о. Березань, Миколаївська обл.). Найбільш відомими і
