@@ -7,12 +7,11 @@
     border: 0.1em solid #0F5181;
     color:white;
     font-weight: bold;
-    width:7.2em;
     padding-left:10px;
+    padding-right:10px;
     margin-bottom:5px;
 }
 .eoz-text {
-    margin-top:-5px;
     width:100%;
     background: #FAFAFA;
     border: .1em solid #0F5181;
@@ -29,7 +28,7 @@
     border: 0.1em solid #faaf00;
     color:white;
     font-weight: bold;
-    width:7.2em;
+    padding-left:10px;
     padding-left:10px;
     margin-bottom:5px;
 }
@@ -74,8 +73,7 @@
     background: #0F5181;
     border: 0.2em solid #0F5181;
     color:white;
-    font-weight: bold;
-    /*width:7.2em;*/
+    font-weight: bold;wi
     padding-left:10px;
     margin-bottom:5px;
     padding-right:10px;
