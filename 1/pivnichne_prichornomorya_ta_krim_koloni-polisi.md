@@ -28,6 +28,18 @@ sa dasd sa </p>
 </div>
 
 
+<div class="add-wrap">
+<div class="add">
+Задача
+</div>
+<div class="add-text">
+<p>asdas dsa das da sda sd asd  выфв as da
+в asd as вssa das в</p>
+<p>asd asdasd 
+sa dasd sa </p>
+</div>
+</div>
+
 
 
 Першим давньогрецьким полісом на території України стало місто
