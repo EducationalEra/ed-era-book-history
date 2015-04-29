@@ -11,13 +11,6 @@
     padding-left:10px;
     margin-bottom:5px;
 }
-.ozn-text {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 2em;
-    padding-top:10px;
-    padding-bottom:10px;
-}
 .eoz {
     margin-top:-5px;
     width:100%;
@@ -26,6 +19,33 @@
     padding-left:10px;
     padding-right:10px;
 }
+
+
+/*Задача*/
+.task-wrap{
+    margin-bottom:1em;
+}
+.ozn {
+    background: #0F5181;
+    border: 0.1em solid #0F5181;
+    color:white;
+    font-weight: bold;
+    width:7.2em;
+    padding-left:10px;
+    margin-bottom:5px;
+}
+
+.eoz {
+    margin-top:-5px;
+    width:100%;
+    background: #FAFAFA;
+    border: .1em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+
 
 
 
