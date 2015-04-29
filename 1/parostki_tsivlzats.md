@@ -16,7 +16,7 @@
 
 
 <img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg"/>
-
+1
 
 
 ### Середній палеоліт {#середній-палеоліт .unnumbered}
