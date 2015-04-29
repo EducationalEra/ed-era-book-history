@@ -75,5 +75,5 @@ sa dasd sa </p>
 Пантикапей та Херсонес уціліли та потрапили під владу Візантії.
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" style="background: #FAFAFA;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" class="image">
 </div>
