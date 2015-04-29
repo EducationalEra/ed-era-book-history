@@ -20,7 +20,6 @@
     padding-right:10px;
 }
 
-
 /*Задача*/
 .task-wrap{
     margin-bottom:1em;
@@ -44,7 +43,29 @@
     padding-right:10px;
 }
 
+/*Додатково*/
+.add-wrap{
+    margin-bottom:1em;
+}
+.add {
+    background: #faaf00;
+    border: 0.1em solid #faaf00;
+    color:white;
+    font-weight: bold;
+    width:7.2em;
+    padding-left:10px;
+    margin-bottom:5px;
+}
 
+.add-text {
+    margin-top:-5px;
+    width:100%;
+    background: #fff;
+    border-top: .1em solid #faaf00;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .1em solid #faaf00;
+}
 
 
 
