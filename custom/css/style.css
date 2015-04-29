@@ -4,7 +4,7 @@
 }
 .eoz {
     background: #0F5181;
-    border: 0.1em solid #0F5181;
+    border: 0.15em solid #0F5181;
     color:white;
     font-weight: bold;
     padding-left:10px;
@@ -13,7 +13,7 @@
 .eoz-text {
     width:100%;
     background: #FAFAFA;
-    border: .1em solid #0F5181;
+    border: .15em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
 }
