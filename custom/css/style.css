@@ -48,8 +48,8 @@
     margin-bottom:1em;
 }
 .add {
-    background: #faaf00;
-    border: 0.1em solid #faaf00;
+    background: #0F5181;
+    border: 0.1em solid #0F5181;
     color:white;
     font-weight: bold;
     width:7.2em;
@@ -61,10 +61,10 @@
     margin-top:-5px;
     width:100%;
     background: #fff;
-    border-top: .1em solid #faaf00;
+    border-top: .1em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
-    border-bottom: .1em solid #faaf00;
+    border-bottom: .2em solid #0F5181;
 }
 
 
