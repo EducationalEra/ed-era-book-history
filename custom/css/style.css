@@ -29,7 +29,7 @@
     color:white;
     font-weight: bold;
     padding-left:10px;
-    padding-left:10px;
+    padding-right:10px;
     margin-bottom:5px;
 }
 
@@ -50,8 +50,8 @@
     border: 0.2em solid #faaf00;
     color:white;
     font-weight: bold;
-    width:13.8em;
     padding-left:10px;
+    
     margin-bottom:5px;
 }
 .alg-text {
