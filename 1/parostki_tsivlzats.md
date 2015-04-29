@@ -93,9 +93,9 @@
 **Стоянки (1000):**
 *Мурзак-Коба, Фатьма-Коба (Крим), Гребінківська стоянка (Одещина)*
 
-<div style="background: #FAFAFA;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
-</div>
+
+<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
+
 
 
 ### Неоліт {#неоліт .unnumbered}
