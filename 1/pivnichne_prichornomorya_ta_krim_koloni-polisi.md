@@ -49,7 +49,7 @@ sa dasd sa </p>
 крупними містами стали **Ольвія**, **Тіра**, **Херсонес**,
 **Пантикапей** та **Феодосія**.
 
-<div style="background: #FAFAFA;">
+<div class="image">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg"/>
 </div>
 
