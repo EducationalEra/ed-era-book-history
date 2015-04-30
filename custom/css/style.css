@@ -31,23 +31,15 @@ default – "White"
     padding-right:10px;
 }
 
-.book.color-theme-1 .eoz-wrap{
-    margin-bottom:1em;
-}
 .book.color-theme-1 .eoz {
     background: #704214;
     border: 0.15em solid #704214;
     color:#F3EACB;
-    font-weight: bold;
-    padding-left:10px;
-    padding-right:10px;
 }
 .book.color-theme-1 .eoz-text {
     width:100%;
     background: #F3EACB;
     border: .15em solid #704214;
-    padding-left:10px;
-    padding-right:10px;
 }
 
 .book.color-theme-2 .eoz-wrap{
