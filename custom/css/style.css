@@ -331,9 +331,17 @@ default – "White"
     padding-right:10px;
 }
 
-/*-------------------------------------------*/
+/*---------------png,svg image----------------------*/
 .image {
     background: #FAFAFA;
+}
+
+.book.color-theme-1 .image {
+    background: #F3EACB;
+}
+
+.book.color-theme-1 .image {
+    background: #F3EACB;
 }
 
 .left-line {
