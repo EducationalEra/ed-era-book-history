@@ -49,16 +49,11 @@ default – "White"
     background: #2C3043;
     border: 0.15em solid #2C3043;
     color:#bdcadb;
-    font-weight: bold;
-    padding-left:10px;
-    padding-right:10px;
 }
 .book.color-theme-2 .eoz-text {
     width:100%;
     background: #1c1f2b;
     border: .15em solid #2C3043;
-    padding-left:10px;
-    padding-right:10px;
 }
 
 /*Задача*/
