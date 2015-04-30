@@ -50,5 +50,10 @@ VII ст. заволодівши Балканами та тримаючи у с�
 різні племена у цілісний етнос.
 
 
+<div class="image">
+  <img class="im" src="https://raw.githubusercontent.com/chudaol/ed-era-book-biology/master/2/pic2.png?token=YXJ0ZW1pbGNodWs6NDBjNzQ5MzE2YzA1MGE3MTgwMmZlYTk2ODUxNjI4NTViYzQ4Njk5ZQ%3D%3D" title="Image Caption Text" />
+</div>
+
+
 
 
