@@ -274,3 +274,16 @@ default – "White"
     vertical-align:middle;
     font-size: 12pt;
 }
+
+.im:hover {
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+.im:click {
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+.im {
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}
