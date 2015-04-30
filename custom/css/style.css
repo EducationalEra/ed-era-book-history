@@ -276,12 +276,12 @@ default – "White"
 }
 
 .im:hover {
--webkit-transform:scale(1.2);
-transform:scale(1.2);
+-webkit-transform:scale(2);
+transform:scale(2);
 }
 .im:click {
--webkit-transform:scale(1.2);
-transform:scale(1.2);
+-webkit-transform:scale(2);
+transform:scale(2);
 }
 .im {
 -webkit-transition: all 0.7s ease;
