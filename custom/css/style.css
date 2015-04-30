@@ -19,6 +19,24 @@
     padding-left:10px;
     padding-right:10px;
 }
+/* EXAMPLE HOW TO USE NIGHT THEME SPECIFIC STYLE */
+.book.color-theme-2 .eoz {
+    background: #000000;
+    border: 0.15em solid #000000;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+}
+/* EXAMPLE HOW TO USE SEPIA THEME SPECIFIC STYLE */
+.book.color-theme-1 .eoz {
+    background: #812527;
+    border: 0.15em solid #81292f;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+}
 .eoz-text {
     width:100%;
     background: #FAFAFA;
