@@ -340,10 +340,10 @@ default – "White"
     background: #F3EACB;
 }
 
-.book.color-theme-1 .image {
-    background: #F3EACB;
+.book.color-theme-2 .image {
+    background: #2c3043;
 }
-
+/*----------------------------------*/
 .left-line {
     border-left:0.3em solid #FAFAFA;
 }
