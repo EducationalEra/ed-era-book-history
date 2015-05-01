@@ -1,7 +1,5 @@
 {
     "plugins": [
-        "mathjax4us",
-        "youtube",
         "addcssjs"
     ],
     "pluginsConfig": {

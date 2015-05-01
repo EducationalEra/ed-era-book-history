@@ -273,6 +273,7 @@ default – "White"
     text-align: center;
     vertical-align:middle;
     font-size: 12pt;
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 =======
@@ -290,3 +291,6 @@ transform:scale(1.5);
 transition: all 0.7s ease;
 }
 >>>>>>> origin/master
+=======
+}
+>>>>>>> parent of 8e46520... upd
