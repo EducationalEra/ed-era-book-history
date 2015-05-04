@@ -7,7 +7,6 @@
 <div align="center">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" class="image" width="450" />
 </div>
-</div>
 
 У VI ст. стають відомими перші слов’янські племена: анти, венеди та
 склавини з Подніпров’я, берегів Вісли та Подунав’я відповідно.
