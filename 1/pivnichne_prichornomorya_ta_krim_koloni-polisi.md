@@ -6,15 +6,52 @@
 та Азовського морів. Цей процес має назву «Велика грецька колонізація».
 
 
-Полiс — мiсто-держава, мiська громада; особлива форма  соцiально-економiчної та полiтичної органiзацiї  суспiльства, типова для Стародавньої Грецiї та Риму.
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Полiс</b> — мiсто-держава, мiська громада; особлива форма  соцiально-економiчної та полiтичної органiзацiї  суспiльства, типова для Стародавньої Грецiї та Риму.
+</div>
+</div>
 
+<!---
+<div class="task-wrap">
+<span class="task">Задача</span>
+<div class="task-text">
+<p>asdas dsa das da sda sd asd  выфв as da
+в asd as вssa das в</p>
+<p>asd asdasd 
+sa dasd sa </p>
+</div>
+</div>
+
+
+<div class="add-wrap">
+<span class="add">Додатково</span>
+<div class="add-text">
+<p>АВ asdas dsa das da sda sd asd  выфв as da
+в asd as вssa das в</p>
+<p>asd asdasd 
+sa dasd sa </p>
+</div>
+</div>
+
+<div class="alg-wrap">
+<span class="alg">Авторський алгоритм</span>
+<div class="alg-text">
+<p>АВ asdas dsa das da sda sd asd  выфв as da
+в asd as вssa das в</p>
+<p>asd asdasd 
+sa dasd sa </p>
+</div>
+</div>
+--->
 
 Першим давньогрецьким полісом на території України стало місто
 **Борисфеніда** (о. Березань, Миколаївська обл.). Найбільш відомими і
 крупними містами стали **Ольвія**, **Тіра**, **Херсонес**,
 **Пантикапей** та **Феодосія**.
 
-<div style="background: #FAFAFA;">
+<div class="image">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg"/>
 </div>
 
@@ -38,5 +75,5 @@
 Пантикапей та Херсонес уціліли та потрапили під владу Візантії.
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" style="background: #FAFAFA;">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" class="image">
 </div>

@@ -1,13 +1,11 @@
 {
     "plugins": [
-        "mathjax4us",
-        "mathjax",
-        "youtube",
-        "customtheme"
+        "addcssjs"
     ],
     "pluginsConfig": {
-        "customtheme": {
-           "css": ['custom/css/style.css']
+        "addcssjs": {
+            "css": ["custom/css/style.css"],
+            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/custom.js"]
         }
     }
 }

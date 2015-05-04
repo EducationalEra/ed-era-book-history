@@ -1,7 +1,5 @@
 Паростки цивілізації
 --------------------
-
-
 ### Кам’яний вік
 
 ### Ранній палеоліт {#ранній-палеоліт .unnumbered}
@@ -17,7 +15,7 @@
 обл.)*
 
 
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg" style="background: #FAFAFA;" />
+<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic1.svg"/>
 
 
 
@@ -67,9 +65,9 @@
 *Мізинська (Чернігівська обл.), Радомишльська (Житомирська обл.),*
 *Межиричі (Київська обл.)*
 
-<div style="background: #FAFAFA;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
-</div>
+
+<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
+
 
 
 Вірування та мистецтво стрімко розвиваються, хоча й лишаються
@@ -95,9 +93,9 @@
 **Стоянки (1000):**
 *Мурзак-Коба, Фатьма-Коба (Крим), Гребінківська стоянка (Одещина)*
 
-<div style="background: #FAFAFA;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
-</div>
+
+<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
+
 
 
 ### Неоліт {#неоліт .unnumbered}
@@ -128,9 +126,7 @@
 *Пам’ятки неолітичної культури: с. Микільська Слобідка на Київщині та
 Кам’яна Могила у Приазов’ї.*
 
-<div style="background: #FAFAFA;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic5.svg" />
-</div>
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic5.svg" class="image"/>
 
 
 ### Енеоліт (мідний вік)
@@ -155,7 +151,7 @@
 через виснаженість господарських угідь.
 
 <div align="center">
-<img  src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="450" height="338" style="background: #FAFAFA;">
+<img  src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="450" height="338" class="image"/>
 </div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
