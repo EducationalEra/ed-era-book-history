@@ -1,4 +1,4 @@
-![/*
+/*
 <div class="...-wrap">
 <span class="...">Текст в шапке</span>
 <div class="...-text">
@@ -31,9 +31,6 @@ default – "White"
     padding-right:10px;
 }
 
-/*.book.color-theme-1 .eoz-wrap{
-    margin-bottom:1em;
-}*/
 .book.color-theme-1 .eoz {
     background: #704214;
     border: 0.15em solid #704214;
@@ -273,24 +270,13 @@ default – "White"
     text-align: center;
     vertical-align:middle;
     font-size: 12pt;
-<<<<<<< HEAD
 }
-<<<<<<< HEAD
-=======
 
 .im:hover {
--webkit-transform:scale(1.5);
-transform:scale(1.5);
-}
-.im:click {
--webkit-transform:scale(1.5);
-transform:scale(1.5);
+-webkit-transform:scale(1.3);
+transform:scale(1.3);
 }
 .im {
--webkit-transition: all 0.7s ease;
-transition: all 0.7s ease;
+-webkit-transition: all 0.8s ease;
+transition: all 0.8s ease;
 }
->>>>>>> origin/master
-=======
-}
->>>>>>> parent of 8e46520... upd
