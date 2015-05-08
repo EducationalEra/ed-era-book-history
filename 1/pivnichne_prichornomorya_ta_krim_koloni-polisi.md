@@ -19,8 +19,8 @@
 **Пантикапей** та **Феодосія**.
 
 <div class="image">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg"/>
-</div><br/>
+<p><img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg"/></p>
+</div>
 
 Міста-поліси були самостійними рабовласницькими республіками, наслідуючи
 тенденцію Великої Греції. Перський вплив зумовив виникнення монархії –
