@@ -18,8 +18,8 @@
 крупними містами стали **Ольвія**, **Тіра**, **Херсонес**,
 **Пантикапей** та **Феодосія**.
 
-<div class="image">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg"/>
+<div align="center">
+<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg" class="image"/>
 </div>
 
 Міста-поліси були самостійними рабовласницькими республіками, наслідуючи
