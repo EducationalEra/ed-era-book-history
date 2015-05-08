@@ -5,7 +5,7 @@
 населення Східної Європи.
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/slovv1.svg" class="image" width="450" />
+<img src="../images/slovv1.svg" class="image" width="450" />
 </div>
 
 У VI ст. стають відомими перші слов’янські племена: анти, венеди та
