@@ -286,6 +286,7 @@ transition: all 0.8s ease;
 /*popup video*/
 
 .modalDialog {
+    display: none;
 	position: fixed;
 	font-family: Arial, Helvetica, sans-serif;
 	top: 0;
@@ -293,12 +294,6 @@ transition: all 0.8s ease;
 	bottom: 0;
 	left: 0;
 	background: rgba(0,0,0,0.8);
-	z-index: 99999;
-	opacity:0;
-	-webkit-transition: opacity 400ms ease-in;
-	-moz-transition: opacity 400ms ease-in;
-	transition: opacity 400ms ease-in;
-	pointer-events: none;
 }
 
 .modalDialog:target {
