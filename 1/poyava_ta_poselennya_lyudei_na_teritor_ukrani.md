@@ -21,7 +21,7 @@
 [tab2]: ../images/tab2.png
 
 
-<a href="#openModal">Open Modal</a>
+<a href="#openModal" onclick = "document.getElementById(openModal).style.display='block'">Open Modal</a>
 
 <div id="openModal" class="modalDialog">
 	<div>
