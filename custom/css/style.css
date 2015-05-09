@@ -307,7 +307,7 @@ transition: all 0.8s ease;
 }
 
 .modalDialog > div {
-	width: 770px;
+	width: 800px;
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
