@@ -281,12 +281,6 @@ transform:scale(1.3);
 transition: all 0.8s ease;
 }
 
-.space{
-    background:red;
-    margin: 2cm 4cm 3cm 4cm;
-}
-
-
 /*popup video*/
 
 .modalDialog {
