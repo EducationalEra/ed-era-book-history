@@ -281,7 +281,7 @@ transform:scale(1.3);
 transition: all 0.8s ease;
 }
 
-p .space{
+.space{
     background:red;
 }
 
