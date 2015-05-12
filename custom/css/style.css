@@ -283,8 +283,7 @@ transition: all 0.8s ease;
 
 .space{
     background:red;
-    margin-top:200px;
-    margin-bottom:200px;
+    margin: 2cm 4cm 3cm 4cm;
 }
 
 
