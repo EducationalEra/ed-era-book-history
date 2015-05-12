@@ -2,7 +2,7 @@
 =============================================
 asd
 <p class="space">asdasd asd aqqqw asd</p>
-<p>asdasd asd asd asd as das das das </p>
+<p style="background:red;">asdasd asd asd asd as das das das </p>
 
 Історія людства починається з появою першої людини. Археологічні
 знахідки вказують на те, що перша людина – *Homo habilis (Людина
