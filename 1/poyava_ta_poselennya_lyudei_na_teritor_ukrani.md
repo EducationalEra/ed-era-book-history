@@ -2,7 +2,6 @@
 =============================================
 asd
 <p class="space">asdasd asd aqqqw asd</p>
-<p style="background:red;">asdasd asd asd asd as das das das </p>
 asdsad
 
 Історія людства починається з появою першої людини. Археологічні
