@@ -1,7 +1,6 @@
 Поява та поселення людей на території України
 =============================================
 asd
-
 <p class="space">asdasd asd aqqqw asd</p>
 <p style="background:red;">asdasd asd asd asd as das das das </p>
 asdsad
