@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "addcssjs"
+        "addcssjs",
+        "modal-youtube-video"
     ],
     "pluginsConfig": {
         "addcssjs": {
