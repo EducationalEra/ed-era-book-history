@@ -366,12 +366,12 @@ transition: all 0.8s ease;
 	}
 
 
-	ul {
+	ul .button {
 		margin: 30px auto;
 		text-align: center;
 	}
 
-	li {
+	li .button {
 		list-style: none;
 		position: relative;
 		display: inline-block;
