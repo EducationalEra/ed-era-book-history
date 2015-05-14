@@ -426,7 +426,7 @@ transition: all 0.8s ease;
 		top: -4.5px;
 		font-size: 33px;
 		padding-top: 12px;
-
+	    padding-right: 20px;
 		z-index: 2;
 		border-size: 10px;
 		-webkit-transform: rotate(-360deg);
@@ -457,3 +457,6 @@ transition: all 0.8s ease;
 		text-shadow: 0 1px 1px rgba(0,0,0,.5);
 	}
 
+	.green span {
+		background: rgba(250, 154, 0,.7);
+	}
