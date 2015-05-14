@@ -356,7 +356,7 @@ transition: all 0.8s ease;
 }
 
 /* play button*/
-#ss {
+* {
     margin: 0;
     padding: 0;
   	-moz-box-sizing: border-box;
