@@ -359,12 +359,12 @@ transition: all 0.8s ease;
 
 
 
-	ul .button {
+	.button-wrap {
 		margin: 30px auto;
 		text-align: center;
 	}
 
-	li .button {
+	.button {
 		list-style: none;
 		position: relative;
 		display: inline-block;
