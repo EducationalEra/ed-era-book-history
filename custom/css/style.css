@@ -435,17 +435,6 @@ transition: all 0.8s ease;
 		transform: rotate(-360deg);
 	}
 
-	a.green {
-    background-color: rgba(250, 175, 0,.7);
-		color: #faaf00;
-		border-color: #fa9a00;
-	}
-
-	a.green:hover {
-    color: #fff;
-	}
-
-
 	.round span.round {
 		display: block;
 		opacity: 0;
