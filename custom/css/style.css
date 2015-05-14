@@ -366,12 +366,12 @@ transition: all 0.8s ease;
 	}
 
 
-	.button-wrap {
+	but0 {
 		margin: 30px auto;
 		text-align: center;
 	}
 
-	.button {
+	but1 {
 		list-style: none;
 		position: relative;
 		display: inline-block;
