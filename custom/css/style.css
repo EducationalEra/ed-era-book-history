@@ -578,9 +578,8 @@ transition: all 0.8s ease;
 }
 
 .ball {
-    position:absolute;
-    width:100%;
-    height:100%;
+    width:100px;
+    height:100px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
