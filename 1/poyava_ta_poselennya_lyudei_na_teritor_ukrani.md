@@ -7,14 +7,8 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
-<div id="ballMenuContainer">
-<div id="menuBall1" class="menuBall">
-  <a href="#" class="ball blueball">
-    <div class="menuText">
-        Party Info
-    </div>
-  </a>
-</div>
+<div class="center">
+<img class="backbutton" src="../images/Oval 1.png" width="100"/>
 </div>
 
 
