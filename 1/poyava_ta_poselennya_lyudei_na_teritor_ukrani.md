@@ -9,7 +9,7 @@
 
 1
 {% modalYoutube %}https://www.youtube.com/embed/hnH54iMdU8E|
-<ul class="button">
+<ul class="button-wrap">
     <li class="button"><a href="#" class="round green"><img src="../images/play2.png" width="100"/><span class="round">Дивитися відео</span></a></li>
   </ul>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
