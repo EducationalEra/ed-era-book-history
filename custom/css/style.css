@@ -407,8 +407,8 @@ transition: all 0.8s ease;
 		position: absolute;
 		left: 0;
 		top: 0;
-		width: 100%;
-		height: 100%;
+		width: 100px;
+		height: 100px;
 
 		text-decoration: none;
 		text-align: center;
@@ -428,10 +428,10 @@ transition: all 0.8s ease;
 	}
 
 	.round:hover {
-		width: 130%;
-		height: 130%;
-		left: -15%;
-		top: -15%;
+		width: 130px;
+		height: 130px;
+		left: -4.5px;
+		top: -4.5px;
 		font-size: 33px;
 		padding-top: 12px;
 		-webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.3);
