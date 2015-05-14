@@ -6,6 +6,10 @@
 звідки розселилася по всій земній кулі. На територію сучасної України
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
+123
+<but0>
+    <but1><a href="#" class="round green"><img src="../images/play2.png" width="100"/><span class="round">Дивитися відео</span></a></but1>
+  </but0>
 
 1
 {% modalYoutube %}https://www.youtube.com/embed/hnH54iMdU8E|
