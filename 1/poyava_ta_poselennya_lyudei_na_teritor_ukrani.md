@@ -15,30 +15,6 @@
     </div>
   </a>
 </div>
-
-<div id="menuBall2" class="menuBall">
-	<a href="#" class="ball redball">
-    <div class="menuText">
-        Directions
-    </div>
-  </a>
-</div>
-
-<div id="menuBall3" class="menuBall">
-	<a href="#" class="ball greenball">
-    <div class="menuText">
-        The Dairy
-    </div>
-  </a>
-</div>
-
-<div id="menuBall4" class="menuBall">
-	<a href="#" class="ball yellowball">
-    <div class="menuText">
-        Email Us
-    </div>
-  </a>
-</div>
 </div>
 
 
