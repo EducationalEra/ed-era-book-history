@@ -12,7 +12,7 @@
     <but1><a href="https://google.com" class="round green"><img src="../images/play2.png" width="100"/><span class="round">Дивитися відео</span></a></but1>
   </but0>
 1
-<a class="grow" href="google.com"><img src="../images/play2.png" /></a>
+<a class="grow" href="google.com">asds</a>
 
 
 
