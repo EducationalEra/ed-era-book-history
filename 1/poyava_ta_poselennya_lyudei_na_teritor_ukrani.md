@@ -7,6 +7,9 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
+
+{% modalYoutube %}https://www.youtube.com/embed/hnH54iMdU8E|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about?_ga=1.114888067.566412928.1427025710"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
