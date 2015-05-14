@@ -12,12 +12,7 @@
   </but0>
 
 1
-{% modalYoutube %}https://www.youtube.com/embed/hnH54iMdU8E|
 
-<but0>
-    <but1><a href="#" class="round green"><img src="../images/play2.png" width="100"/><span class="round">Дивитися відео</span></a></but1>
-  </but0>
-|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
 час матеріалом. І історію України зачепили усі без винятку періоди.
