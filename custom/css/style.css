@@ -426,7 +426,6 @@ transition: all 0.8s ease;
 		top: -4.5px;
 		font-size: 33px;
 		padding-top: 12px;
-	    padding-right: 20px;
 		z-index: 2;
 		border-size: 10px;
 		-webkit-transform: rotate(-360deg);
