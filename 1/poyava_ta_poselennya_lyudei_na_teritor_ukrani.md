@@ -9,7 +9,7 @@
 
 1
 {% modalYoutube %}https://www.youtube.com/embed/hnH54iMdU8E|
-<div id="ss">
+
 <but0>
     <but1><a href="#" class="round green"><img src="../images/play2.png" width="100"/><span class="round">Дивитися відео</span></a></but1>
   </but0>
