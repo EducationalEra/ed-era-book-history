@@ -7,7 +7,39 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
+<div id="ballMenuContainer">
+<div id="menuBall1" class="menuBall">
+  <a href="#" class="ball blueball">
+    <div class="menuText">
+        Party Info
+    </div>
+  </a>
+</div>
 
+<div id="menuBall2" class="menuBall">
+	<a href="#" class="ball redball">
+    <div class="menuText">
+        Directions
+    </div>
+  </a>
+</div>
+
+<div id="menuBall3" class="menuBall">
+	<a href="#" class="ball greenball">
+    <div class="menuText">
+        The Dairy
+    </div>
+  </a>
+</div>
+
+<div id="menuBall4" class="menuBall">
+	<a href="#" class="ball yellowball">
+    <div class="menuText">
+        Email Us
+    </div>
+  </a>
+</div>
+</div>
 
 
 {% modalYoutube %}https://www.youtube.com/embed/L5QvK0VWJPI|
