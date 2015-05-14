@@ -7,6 +7,7 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
+1
 {% modalYoutube %}https://www.youtube.com/embed/hnH54iMdU8E|
 <ul>
     <li><a href="#" class="round green"><img src="play2.png" width="100"/><span class="round">Дивитися відео</span></a></li>
