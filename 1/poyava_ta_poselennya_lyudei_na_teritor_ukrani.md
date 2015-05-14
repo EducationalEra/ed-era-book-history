@@ -8,7 +8,7 @@
 тому.
 
 <div class="center">
-<img class="backbutton" src="../images/Oval 1.png" width="100"/>
+<img class="shake" src="../images/Oval 1.png" width="100"/>
 </div>
 
 
