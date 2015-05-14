@@ -7,6 +7,10 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
+
+
+
+{% modalYoutube %}https://www.youtube.com/embed/L5QvK0VWJPI|
 <div id="container_button">
 	<div id="hole">
 		<div id="button">
@@ -16,9 +20,7 @@
 		</div>
 	</div>
 </div>
-123
-
-{% modalYoutube %}https://www.youtube.com/embed/L5QvK0VWJPI|asd|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
