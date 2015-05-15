@@ -286,8 +286,8 @@ transition: all 0.8s ease;
 .but {
     padding-left:10px;
     padding-right:10px;
-    padding-top:5px;
-    padding-bottom:5px;
+    padding-top:7px;
+    padding-bottom:7px;
     background: #faaf00;
     color: white;
     font-weight: 700;
