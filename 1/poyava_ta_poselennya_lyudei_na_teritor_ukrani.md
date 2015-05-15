@@ -36,7 +36,8 @@
 <question text="Наукова назва перших людиноподібних мавп">
 <answer correct>Homo habilis </answer>
 <answer>Homo erectus</answer>
-<answer>beer</answer>
+<answer>Homo sapiens</answer>
+<answer>Homo heidelbergensis</answer>
 </question>
 </quiz>
 
