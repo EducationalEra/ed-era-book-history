@@ -25,3 +25,18 @@
 
 ![image][tab2]
 [tab2]: ../images/tab2.png
+
+<quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question text="Людство зародилося">
+<answer>у центрі Африки</answer>
+<answer>у Північній Америці</answer>
+<answer correct>на півдні Африки</answer>
+<answer>у південно-східній Азії</answer>
+</question>
+<question text="Наукова назва перших людиноподібних мавп">
+<answer correct>Homo habilis </answer>
+<answer>Homo erectus</answer>
+<answer>beer</answer>
+</question>
+</quiz>
+
