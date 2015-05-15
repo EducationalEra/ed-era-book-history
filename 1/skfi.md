@@ -37,7 +37,7 @@
 регіоні, воюючи з грецькими полісами. Як державне та суспільне утворення
 Мала Скіфія проіснувала до ІІІ ст. н.е.
 
-{% modalYoutube %}https://www.youtube.com/embed/RLIrdcFjsDw|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/RLIrdcFjsDw|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 Скіфська культура залишила багато пам’яток. Цьому сприяли захоронення –
 кургани, де хоронили багатих скіфів з їх особистими речами. Знахідки
