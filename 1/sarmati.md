@@ -25,4 +25,10 @@
 <answer>скіфи, кіммерійці, сармати;</answer>
 <answer>сармати, кіммерійці, скіфи.</answer>
 </question>
+<question text="Кочівники, що змогли побудувати свою протодержаву:">
+<answer>кіммерійці</answer>
+<answer>готи</answer>
+<answer>сармати</answer>
+<answer correct>скіфи</answer>
+</question>
 </quiz>
