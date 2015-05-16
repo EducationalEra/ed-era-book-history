@@ -56,4 +56,5 @@
     <answer>загарбницька зовнішня політика</answer>
     <answer correct>карбування монети</answer>
 </question>
+</quiz>
 
