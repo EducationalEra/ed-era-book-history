@@ -19,15 +19,10 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/oU6hYD2VQ_s|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
-
-<problem>
-<p>Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:</p>
-
-<multiplechoiceresponse>
-  <choicegroup label="Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:" type="MultipleChoice">
-    <choice correct="true">кіммерійці, скіфи, сармати;</choice>
-    <choice correct="false">скіфи, кіммерійці, сармати;</choice>
-    <choice correct="false">сармати, кіммерійці, скіфи.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-</problem>
+<quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question text="Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:">
+<answer correct>кіммерійці, скіфи, сармати;</answer>
+<answer>скіфи, кіммерійці, сармати;</answer>
+<answer>сармати, кіммерійці, скіфи.</answer>
+</question>
+</quiz>
