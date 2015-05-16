@@ -51,6 +51,13 @@ VII ст. заволодівши Балканами та тримаючи у с�
 різні племена у цілісний етнос.
 
 
+Основою державності прадавніх слов’ян були:
+<quiz name="LALA" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="shto" multiple>
+<answer correct>hui v palto</answer>
+<answer>nichego</answer>
+<explanation>волынская резня</explanation>
+</question>
 
 
 
