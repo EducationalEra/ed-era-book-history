@@ -54,9 +54,10 @@ VII ст. заволодівши Балканами та тримаючи у с�
 
 <quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="Основою державності прадавніх слов’ян були:">
-<answer correct>hui v palto</answer>
-<answer>nichego</answer>
-<explanation>волынская резня</explanation>
+<answer>рабовласницькі імперії</answer>    
+<answer correct>племінні союзи</answer>
+<answer>міста-держави</answer>
+<answer>удільні князівства</answer>
 </question>
 </quiz>
 
