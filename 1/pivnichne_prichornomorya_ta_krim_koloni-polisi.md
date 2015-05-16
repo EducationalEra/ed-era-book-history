@@ -46,3 +46,14 @@
 
 
 {% modalYoutube %}https://www.youtube.com/embed/fYxuN5DDEFc|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+
+<quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Для поліса характерні (виберіть усі правильні варіанти):" multiple>
+    <answer correct>рабовласницький устрій</answer>
+    <answer>велика підвладна територія</answer>
+    <answer correct>республіканська форма правління</answer>
+    <answer>повна торгівельна та економічна ізольованість</answer>
+    <answer>загарбницька зовнішня політика</answer>
+    <answer correct>карбування монети</answer>
+</question>
+
