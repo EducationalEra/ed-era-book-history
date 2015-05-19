@@ -403,6 +403,7 @@ transition: all 0.8s ease;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 5px;
     position: relative; 
+    vertical-align:middle;
 }
 
 .play-button:hover {
