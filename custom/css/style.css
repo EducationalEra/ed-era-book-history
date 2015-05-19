@@ -380,10 +380,5 @@ transition: all 0.8s ease;
 }
 
 .blya {
-    /* Oval 1: */
-    border: 12px solid #FFFFFF;
-    border-radius: 15px;
-    /* Rectangle 2: */
-    background: #FFFFFF;
-    
+    margin-top:-100px;
 }
