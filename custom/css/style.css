@@ -394,7 +394,8 @@ transition: all 0.8s ease;
 }
 
 .box {
-    
+    width:400;
+    height:120;
 }
 .play-button {
     height: 40px;
