@@ -50,6 +50,8 @@ VII ст. заволодівши Балканами та тримаючи у с�
 <video controls="true">
     <source src="https://www.youtube.com/watch?v=uRiLhXiDH18" type="video/mp4" />
 </video>
+
+
 https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
 
 
