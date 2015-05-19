@@ -46,8 +46,9 @@ VII ст. заволодівши Балканами та тримаючи у с�
 <iframe width="400" height="225" src="https://www.youtube.com/embed/uRiLhXiDH18?controls=0&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<video width="400" height="225" controls>
-<source src = "https://www.youtube.com/watch?v=uRiLhXiDH18?html5=True">
+
+<video controls="true">
+    <source src="https://www.youtube.com/watch?v=uRiLhXiDH18" type="video/mp4" />
 </video>
 https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
 
