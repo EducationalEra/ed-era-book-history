@@ -386,7 +386,6 @@ transition: all 0.8s ease;
     -webkit-transition: opacity 1s ease-in-out;
 }
 
-
 .cls:hover {
     opacity: 1.0;
     transition: opacity .55s ease-in-out;
