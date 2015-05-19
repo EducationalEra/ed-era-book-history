@@ -379,6 +379,9 @@ transition: all 0.8s ease;
 	-webkit-animation-timing-function: linear;
 }
 
-.blya {
-    margin-bottom:-170px;
+.cls:hover {
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
 }
