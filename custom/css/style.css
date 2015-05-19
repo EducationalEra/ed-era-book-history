@@ -378,3 +378,12 @@ transition: all 0.8s ease;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
 }
+
+.blya {
+    /* Oval 1: */
+    border: 12px solid #FFFFFF;
+    border-radius: 15px;
+    /* Rectangle 2: */
+    background: #FFFFFF;
+    
+}
