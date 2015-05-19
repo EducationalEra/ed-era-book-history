@@ -397,33 +397,25 @@ transition: all 0.8s ease;
     width:400;
     height:120;
 }
-.play-button {
-    height: 40px;
-    width: 65px;    
-    background-color: rgba(0, 0, 0, 0.7);
-    border-radius: 5px;
-    position: relative; 
-    vertical-align:middle;
-}
 
-.play-button:hover {
-    background-color: rgba(0, 173, 239, 0.9);
+#play, #pause, #fwd, #rew {
+   width:80px;
+   height: 80px;
+   background: white;
+   position: relative;
+   margin-top: 10px;
+   display: block;
 }
-
-.play-button:after {
+ 
+#play:before {
+    width: 0;        
+    height: 0;
+    border-left: 30px solid black;
+    border-right: 30px solid transparent;
+    border-top: 30px solid transparent;
+    border-bottom: 30px solid transparent; 
+    position: absolute;
     content: "";
-    display: block;
-    position: relative;
-    top: 10.5px;
-    left: 24px;
-    vertical-align: middle;
-    border-style: solid;
-    border-width: 9.5px 0 9.5px 17px;
-    border-color: transparent transparent transparent rgba(255, 255, 255, 1);
+    top: 10px;
+    left: 25px;
 }
-
-.wrap-image {
-    margin-top:-1px;
-    padding-top:1px;
-}
-
