@@ -393,12 +393,15 @@ transition: all 0.8s ease;
     -webkit-transition: opacity .55s ease-in-out;
 }
 
+.box {
+    
+}
 .play-button {
     height: 40px;
     width: 65px;    
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 5px;
-    vertical-align: middle; 
+    position: relative; 
 }
 
 .play-button:hover {
