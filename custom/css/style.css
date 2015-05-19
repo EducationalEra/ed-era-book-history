@@ -422,4 +422,8 @@ transition: all 0.8s ease;
     border-color: transparent transparent transparent rgba(255, 255, 255, 1);
 }
 
+.wrap-image {
+    margin-top:-1px;
+    padding-top:1px;
+}
 
