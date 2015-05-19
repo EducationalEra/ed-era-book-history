@@ -43,7 +43,7 @@ VII ст. заволодівши Балканами та тримаючи у с�
 самостійну професію. Торгівля набуває міжнародного масштабу.
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uRiLhXiDH18&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uRiLhXiDH18" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Утворюються великі племінні союзи (полян, дулібів) та племінні
