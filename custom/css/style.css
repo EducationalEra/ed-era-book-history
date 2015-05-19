@@ -412,7 +412,7 @@ transition: all 0.8s ease;
 .play-button:after {
     content: "";
     display: block;
-    position: absolute;
+    position: relative;
     top: 10.5px;
     left: 24px;
     margin: 0 auto;
