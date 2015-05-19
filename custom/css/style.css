@@ -416,7 +416,7 @@ transition: all 0.8s ease;
     position: relative;
     top: 10.5px;
     left: 24px;
-    margin: 0 auto;
+    margin-top:-100px;
     border-style: solid;
     border-width: 9.5px 0 9.5px 17px;
     border-color: transparent transparent transparent rgba(255, 255, 255, 1);
