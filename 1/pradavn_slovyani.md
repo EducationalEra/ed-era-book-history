@@ -3,8 +3,8 @@
 {% modalYoutube %}https://www.youtube.com/embed/8qkuaLLekbc|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 
-<a href="http://twitter.com/me" title="Twitter link">
-<div id="twitterbird" class="sidebar-poster"></div></a>
+
+<div id="twitterbird" class="sidebar-poster"></div>
 
 Походження перших слов’ян і досі викликають суперечки, проте найбільш
 вірогідним здається їх виокремлення із автохтонного індоєвропейського
