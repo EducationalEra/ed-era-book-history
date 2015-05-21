@@ -423,10 +423,9 @@ transition: all 0.8s ease;
 div.sidebar-poster {
 background-repeat: no-repeat;
 width: 100%;
+background:transparent url('twitterbird.png') center top no-repeat;
 }
-#twitterbird {
-background-image: url('222.png');
-}
+
 #twitterbird:hover {
 background-image: url('2222.png');
 }
