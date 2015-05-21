@@ -420,13 +420,7 @@ transition: all 0.8s ease;
     left: 25px;
 }
 
-.sidebar-poster {
-width: 100%;
-display:block;
-background:transparent url('./222.png') center top no-repeat;
-}
-
-#twitterbird:hover {
-background-image: url('./2222.png');
+#my-img:hover {
+    content: url('./2222.png');
 }
 
