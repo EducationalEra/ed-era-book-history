@@ -419,3 +419,17 @@ transition: all 0.8s ease;
     top: 10px;
     left: 25px;
 }
+
+div.sidebar-poster {
+margin-bottom: 10px;
+background-position: center top;
+background-repeat: no-repeat;
+width: 160px;
+}
+#twitterbird {
+background-image: url('222.png');
+}
+#twitterbird:hover {
+background-image: url('2222.png');
+}
+
