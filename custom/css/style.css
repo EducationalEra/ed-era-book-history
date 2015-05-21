@@ -420,7 +420,7 @@ transition: all 0.8s ease;
     left: 25px;
 }
 
-div.sidebar-poster {
+.sidebar-poster {
 background-repeat: no-repeat;
 width: 100%;
 background:transparent url('222.png') center top no-repeat;
