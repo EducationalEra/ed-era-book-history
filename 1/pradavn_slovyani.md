@@ -2,6 +2,12 @@
 =================
 {% modalYoutube %}https://www.youtube.com/embed/8qkuaLLekbc|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
+<a href="" onMouseOver="document.MyImage.src='http://icons.iconarchive.com/icons/uiconstock/round-edge-social/72/ask-icon.png';" onMouseOut="document.MyImage.src='http://icons.iconarchive.com/icons/uiconstock/round-edge-social/72/arto-icon.png';">
+<img src="http://icons.iconarchive.com/icons/uiconstock/round-edge-social/72/arto-icon.png" name="MyImage">
+
+</a> 
+
+
 
 <img src='222.png' onmouseover="this.src='2222.png';" onmouseout="this.src='222.png';" />
 
