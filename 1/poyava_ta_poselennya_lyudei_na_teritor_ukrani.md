@@ -19,7 +19,7 @@
 <html>
 <table align="center">
  <tr>
-    <th colspan="6">Кам'яний вік</th>
+    <th colspan="5">Кам'яний вік</th>
   </tr>
   <tr>
     <th rowspan="2">неоліт</th>
@@ -32,7 +32,6 @@
    <tr>
         <td>s</td>
         <td>1</td>
-        <td>2</td>
         <td>3</td>
         <td>3</td>
         <td>3</td>
