@@ -27,6 +27,16 @@
     <th colspan="3">палеліт</th>
   </tr>
     <th>asdasdas</th>
+    <th>sadasd</th>
+    <th>1</th>
+   <tr>
+        <td>s</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+   </tr>
 </table>
 </html>
 
