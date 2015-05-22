@@ -29,7 +29,7 @@
 </p>
 
 
-<div align="center">
+<p align="center">
 <table>
  <tr>
     <th colspan="5">Кам'яний вік</th>
@@ -50,7 +50,7 @@
         <td>2 млн.–150 тис.</td>
    </tr>
 </table>
-</div>
+</p>
 
 
 
