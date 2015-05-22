@@ -25,8 +25,6 @@
     <th rowspan="2">неоліт</th>
     <th rowspan="2">мезоліт</th>
     <td>палеліт</td>
-  </tr>
-  <tr>
     <td>asdas</td>
     <td>asdsa</td>
   </tr>
