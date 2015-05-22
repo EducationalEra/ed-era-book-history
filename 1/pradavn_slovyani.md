@@ -43,18 +43,6 @@ VII ст. заволодівши Балканами та тримаючи у с�
 залізообробне, гончарне, ювелірне тощо. Ковальство виокремлюється в
 самостійну професію. Торгівля набуває міжнародного масштабу.
 
-<div align="center">
-<iframe width="400" height="225" src="https://www.youtube.com/embed/uRiLhXiDH18?controls=0&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<video controls="true">
-    <source src="https://www.youtube.com/watch?v=uRiLhXiDH18" type="video/mp4" />
-</video>
-
-
-https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
-
 
 Утворюються великі племінні союзи (полян, дулібів) та племінні
 князівства: Куявія (поляни під Києвом), Славія (Новгород). Куявію
