@@ -19,15 +19,14 @@
 <html>
 <table align="center">
  <tr>
-    <th colspan="3">Кам'яний вік</th>
+    <th colspan="6">Кам'яний вік</th>
   </tr>
   <tr>
     <th rowspan="2">неоліт</th>
     <th rowspan="2">мезоліт</th>
-    <th>палеліт</th>
-    <th>asdas</th>
-    <td>asdsa</td>
+    <th colspan="3">палеліт</th>
   </tr>
+    <th>asdasdas</th>
 </table>
 </html>
 
