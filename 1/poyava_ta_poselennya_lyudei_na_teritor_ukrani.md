@@ -41,14 +41,6 @@
 
 
 
-![image][tab1]
-[tab1]: ../images/tab1.png
-
-
-
-![image][tab2]
-[tab2]: ../images/tab2.png
-
 <quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question text="Людство зародилося">
 <answer>у центрі Африки</answer>
