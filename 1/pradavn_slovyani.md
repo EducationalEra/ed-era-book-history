@@ -4,6 +4,9 @@
 
 <img src='222.png' onmouseover="this.src='2222.png';" onmouseout="this.src='222.png';" />
 
+
+<img src='222.png' onmouseover="this.src='2222.png';" onmouseout="this.src='222.png';" />
+
 Походження перших слов’ян і досі викликають суперечки, проте найбільш
 вірогідним здається їх виокремлення із автохтонного індоєвропейського
 населення Східної Європи.
