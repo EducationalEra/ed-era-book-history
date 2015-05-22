@@ -27,7 +27,8 @@
     <td>палеліт</td>
   </tr>
   <tr>
-    <td>asdas </td>
+    <td>asdas</td>
+    <td>asdsa</td>
   </tr>
 </table>
 </html>
