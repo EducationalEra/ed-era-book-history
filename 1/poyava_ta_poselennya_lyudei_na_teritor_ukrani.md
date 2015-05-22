@@ -26,6 +26,9 @@
     <th rowspan="2">мезоліт</th>
     <td>палеліт</td>
   </tr>
+  <tr>
+    <td>asdas </td>
+  </tr>
 </table>
 </html>
 
