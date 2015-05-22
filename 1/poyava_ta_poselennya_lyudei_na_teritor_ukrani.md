@@ -12,6 +12,13 @@
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
 
+| Tables        | Are           |  | Cool  |
+| ------------- |:-------------:|:----:| -----:|
+| col 3 is      | right-aligned |  | $1600 |
+| col 2 is      | centered      |  |   $12 |
+| zebra stripes | are neat      |  |    $1 |
+
+
 ![image][tab1]
 [tab1]: ../images/tab1.png
 
