@@ -26,15 +26,15 @@
     <th rowspan="2">мезоліт</th>
     <th colspan="3">палеліт</th>
   </tr>
-    <th>asdasdas</th>
-    <th>sadasd</th>
-    <th>1</th>
+    <th>пізній</th>
+    <th>середній</th>
+    <th>ранній</th>
    <tr>
-        <td>s</td>
-        <td>1</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
+        <td>6-8 тис.</td>
+        <td>10-6 тис.</td>
+        <td>35-11 тис.</td>
+        <td>150-35 тис.</td>
+        <td>2 млн.–150 тис.</td>
    </tr>
 </table>
 </html>
