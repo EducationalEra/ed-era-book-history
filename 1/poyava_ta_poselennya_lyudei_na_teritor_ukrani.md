@@ -50,6 +50,17 @@
 </table>
 
 
+<div class="remodal" data-remodal-id="modal">
+    <h1>Remodal</h1>
+    <p>
+      Flat, responsive, lightweight, fast, easy customizable modal window plugin
+      with declarative state notation and hash tracking.
+    </p>
+    <br>
+    <a class="remodal-cancel" href="#">Cancel</a>
+    <a class="remodal-confirm" href="#">OK</a>
+</div>
+
 
 <quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question text="Людство зародилося">
