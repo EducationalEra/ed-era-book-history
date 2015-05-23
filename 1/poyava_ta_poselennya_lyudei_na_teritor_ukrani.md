@@ -75,15 +75,6 @@
   </p>
 </div>
 
-<div class="remodal-overlay" style="display: none;"></div><div class="remodal-wrapper"><div data-remodal-id="modal2" class="remodal" style="visibility: visible;">
-  <h1>Another one window</h1>
-  <p>
-    Hello!
-  </p>
-  <br>
-  <a class="remodal-confirm" href="#">Hello!</a>
-<a href="#" class="remodal-close"></a></div></div>
-
 
 <div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
   <h1>Remodal</h1>
