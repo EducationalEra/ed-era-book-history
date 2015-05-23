@@ -428,3 +428,7 @@ img #my-img:hover {
     content: url('./2222.png');
 }
 
+table.center {
+    margin-left:13%; 
+    margin-right:13%;
+  }
