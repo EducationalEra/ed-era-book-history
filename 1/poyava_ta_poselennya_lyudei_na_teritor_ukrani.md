@@ -50,6 +50,11 @@
 </table>
 
 
+<div class="remodal-bg">
+...Page content...
+</div>
+
+
 <div class="remodal" data-remodal-id="modal">
     <h1>Remodal</h1>
     <p>
