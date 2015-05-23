@@ -70,18 +70,9 @@
 
 <body class="" style="padding-right: 0px;">
 <div class="remodal-bg">
-  <a href="#modal">Click</a>
-  <br><br>
-
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
+  <p align="center">
+  <a href="#modal">тыцни на меня</a>
   </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
 </div>
 
 
