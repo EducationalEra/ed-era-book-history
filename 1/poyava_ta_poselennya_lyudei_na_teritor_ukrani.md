@@ -12,7 +12,7 @@
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
 
-<table align="center">
+<table class="center">
 <tr>
     <td><b>Залізний вік</b></td>
     <td><b>Бронзовий вік</b></td>
@@ -28,7 +28,7 @@
 </table>
 
 
-<table align="center">
+<table class="center">
  <tr>
     <th colspan="5">Кам'яний вік</th>
   </tr>
