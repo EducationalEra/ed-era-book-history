@@ -82,61 +82,6 @@
     Minified version size: ~4kb
   </p>
   <br>
-
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
 </div>
 
 
