@@ -68,7 +68,7 @@
 </question>
 </quiz>
 
-<body class="" style="padding-right: 0px;">
+
 <div class="remodal-bg">
   <p align="center">
   <a href="#modal">тыцни на меня</a>
@@ -88,4 +88,4 @@
   <br>
   <a class="remodal-cancel" href="#">Cancel</a>
   <a class="remodal-confirm" href="#">OK</a>
-<a href="#" class="remodal-close"></a></div></div></body>
+<a href="#" class="remodal-close"></a></div></div>
