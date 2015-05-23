@@ -51,21 +51,6 @@
 </table>
 </div>
 
-<div class="remodal-bg">
-...Page content...
-</div>
-
-
-<div class="remodal" data-remodal-id="modal">
-    <h1>Remodal</h1>
-    <p>
-      Flat, responsive, lightweight, fast, easy customizable modal window plugin
-      with declarative state notation and hash tracking.
-    </p>
-    <br>
-    <a class="remodal-cancel" href="#">Cancel</a>
-    <a class="remodal-confirm" href="#">OK</a>
-</div>
 
 
 <quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
@@ -83,3 +68,155 @@
 </question>
 </quiz>
 
+<body class="" style="padding-right: 0px;">
+<div class="remodal-bg">
+  <a href="#modal">Click</a>
+  <br><br>
+
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+</div>
+
+
+
+
+
+<!-- You can define the global options -->
+<script>
+  // window.remodalGlobals = {
+  //   namespace: "remodal",
+  //   defaults: {
+  //     hashTracking: true,
+  //     closeOnConfirm: true,
+  //     closeOnCancel: true,
+  //     closeOnEscape: true,
+  //     closeOnAnyClick: true
+  //   }
+  // };
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../libs/jquery/dist/jquery.min.js"><\/script>')</script>
+<script src="../src/jquery.remodal.js"></script>
+
+<!-- Events -->
+<script>
+  $(document).on("open", ".remodal", function () {
+    console.log("open");
+  });
+
+  $(document).on("opened", ".remodal", function () {
+    console.log("opened");
+  });
+
+  $(document).on("close", ".remodal", function (e) {
+    console.log('close' + (e.reason ? ", reason: " + e.reason : ''));
+  });
+
+  $(document).on("closed", ".remodal", function (e) {
+    console.log('closed' + (e.reason ? ', reason: ' + e.reason : ''));
+  });
+
+  $(document).on("confirm", ".remodal", function () {
+    console.log("confirm");
+  });
+
+  $(document).on("cancel", ".remodal", function () {
+    console.log("cancel");
+  });
+
+//  You can open or close it like this:
+//  $(function () {
+//    var inst = $.remodal.lookup[$("[data-remodal-id=modal]"").data("remodal")];
+//    inst.open();
+//    inst.close();
+//  });
+
+  //  Or init in this way:
+  var inst = $("[data-remodal-id=modal2]").remodal();
+  //  inst.open();
+</script><div class="remodal-overlay" style="display: none;"></div><div class="remodal-wrapper"><div data-remodal-id="modal2" class="remodal" style="visibility: visible;">
+  <h1>Another one window</h1>
+  <p>
+    Hello!
+  </p>
+  <br>
+  <a class="remodal-confirm" href="#">Hello!</a>
+<a href="#" class="remodal-close"></a></div></div>
+
+
+<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <a class="remodal-cancel" href="#">Cancel</a>
+  <a class="remodal-confirm" href="#">OK</a>
+<a href="#" class="remodal-close"></a></div></div></body>
