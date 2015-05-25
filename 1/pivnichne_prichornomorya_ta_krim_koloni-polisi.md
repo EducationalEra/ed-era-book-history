@@ -42,6 +42,7 @@
 
 <div align="center">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" class="image">
+<br/>
 </div>
 
 
