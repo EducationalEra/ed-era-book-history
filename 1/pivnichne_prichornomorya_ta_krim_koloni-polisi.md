@@ -47,6 +47,32 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/fYxuN5DDEFc|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
+
+
+<div class="remodal-bg">
+  <p align="center">
+  <a href="#modal"><img src='images/Crym1.png' width="65%" onmouseover="this.src='images/Crym2.png';" onmouseout="this.src='images/Crym1.png';" /></a>
+  </p>
+</div>
+
+
+<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <a class="remodal-cancel" href="#">Cancel</a>
+  <a class="remodal-confirm" href="#">OK</a>
+<a href="#" class="remodal-close"></a></div></div>
+
+
+
+
 <quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="Для поліса характерні (виберіть усі правильні варіанти):" multiple>
     <answer correct>рабовласницький устрій</answer>
