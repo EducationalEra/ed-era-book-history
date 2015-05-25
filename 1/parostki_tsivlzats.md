@@ -34,9 +34,9 @@
 **Стоянки (200):**
 *Киїк-Коба (Крим), Рихта (Волинь), Червоний Яр та Деркул (Донбас)*
 
-<div style="background: #FAFAFA;">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg" />
-</div>
+
+<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg" />
+
 
 Зважаючи на суворі природні умови, люди починають виготовляти одяг,
 видобувати вогонь, освоювати печери, будувати наземні житла.
