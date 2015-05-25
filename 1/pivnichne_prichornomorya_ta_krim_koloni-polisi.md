@@ -51,7 +51,7 @@
 
 <div class="remodal-bg">
   <p align="center">
-  <a href="#modal"><img src='images/Crym1.png' width="65%" onmouseover="this.src='images/Crym2.png';" onmouseout="this.src='images/Crym1.png';" /></a>
+  <a href="#modal"><img border="1" src='images/Crym1.png' width="65%" onmouseover="this.src='images/Crym2.png';" onmouseout="this.src='images/Crym1.png';" /></a>
   </p>
 </div>
 
