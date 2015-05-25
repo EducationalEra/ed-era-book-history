@@ -73,6 +73,28 @@
 |<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
 
+
+<div class="remodal-bg">
+  <p align="center">
+  <a href="#modal"><img src='images/piznii_paleolit1.png' width="65%" onmouseover="this.src='images/piznii_paleolit2.png';" onmouseout="this.src='images/piznii_paleolit1.png';" /></a>
+  </p>
+</div>
+
+
+<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <a class="remodal-cancel" href="#">Cancel</a>
+  <a class="remodal-confirm" href="#">OK</a>
+<a href="#" class="remodal-close"></a></div></div>
+
 Вірування та мистецтво стрімко розвиваються, хоча й лишаються
 примітивними. Окрім образотворчого мистецтва, з’являється і прикладне, а
 також прамузика і танці.
