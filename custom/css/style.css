@@ -433,7 +433,9 @@ table.center {
     margin-right:13%;
 }
 
-  
+img .remodal { 
+   border:1px solid #021a40;
+}
   
   
 /*modal ssssss  */  
