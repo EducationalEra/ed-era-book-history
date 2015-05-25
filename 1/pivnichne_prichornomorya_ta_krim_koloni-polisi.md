@@ -72,6 +72,27 @@
 
 
 
+<div class="remodal-bg">
+  <p align="center">
+  <a href="#modal"><img src='images/Crym1.png' width="65%" onmouseover="this.src='images/Crym2.png';" onmouseout="this.src='images/Crym1.png';" /></a>
+  </p>
+</div>
+
+<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <a class="remodal-cancel" href="#">Cancel</a>
+  <a class="remodal-confirm" href="#">OK</a>
+<a href="#" class="remodal-close"></a></div></div>
+
+
 
 <quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="Для поліса характерні (виберіть усі правильні варіанти):" multiple>
