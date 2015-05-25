@@ -1,6 +1,6 @@
 Прадавні слов’яни
 =================
-<div>{% modalYoutube %}https://www.youtube.com/embed/8qkuaLLekbc|<img src='1.1.png' width="65%" onmouseover="this.src='1.2.png';" onmouseout="this.src='1.1.png';" />|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div>{% modalYoutube %}https://www.youtube.com/embed/8qkuaLLekbc|<img src='images/pereselennya1.png' width="65%" onmouseover="this.src='images/pereselennya2.png';" onmouseout="this.src='images/pereselennya1.png';" />|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
 <div id="Library"></div>
