@@ -433,9 +433,19 @@ table.center {
     margin-right:13%;
 }
   
+#Library {
+   background-image: url('../../1/1.1.png');
+   height: 70px;
+   width: 120px;
+}
+
+#Library:hover {
+   background-image: url('../../1/1.2.png');
+}  
+  
+  
   
 /*modal ssssss  */  
-/*mod ыыыыыыыыыыыыыыыыыыы*/
 @import url(//fonts.googleapis.com/css?family=Exo+2:700,400&subset=latin,cyrillic);
 
 /* ==========================================================================
