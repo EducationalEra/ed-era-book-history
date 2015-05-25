@@ -7,7 +7,6 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
-
 <div class="remodal-bg">
   <p align="center">
   <a href="#modal"><img src='images/homo_habillis1' width="65%" onmouseover="this.src='images/homo_habillis2.png';" onmouseout="this.src='images/homo_habillis1.png';" /></a>
