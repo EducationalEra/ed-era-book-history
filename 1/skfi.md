@@ -39,6 +39,29 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/RLIrdcFjsDw|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 
+<div class="remodal-bg">
+  <p align="center">
+  <a href="#modal"><img src='images/skify1.png' width="65%" onmouseover="this.src='images/skify2.png';" onmouseout="this.src='images/skify1.png';" /></a>
+  </p>
+</div>
+
+
+<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
+  <h1>Remodal</h1>
+  <p>
+    Flat, responsive, lightweight, fast, easy customizable modal window plugin
+    with declarative state notation and hash tracking.
+  </p>
+  <p>
+    Minified version size: ~4kb
+  </p>
+  <br>
+  <a class="remodal-cancel" href="#">Cancel</a>
+  <a class="remodal-confirm" href="#">OK</a>
+<a href="#" class="remodal-close"></a></div></div>
+
+
+
 Скіфська культура залишила багато пам’яток. Цьому сприяли захоронення –
 кургани, де хоронили багатих скіфів з їх особистими речами. Знахідки
 вказують на те, що скіфи були видатними ювелірами. У мистецтві мали
