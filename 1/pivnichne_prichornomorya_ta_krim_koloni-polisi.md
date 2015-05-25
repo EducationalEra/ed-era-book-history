@@ -67,7 +67,7 @@
   </p>
   <br>
   <a class="remodal-cancel" href="#">Cancel</a>
-  <a class="remodal-confirm" href="#">OK</a>
+  <a class="remodal-confirm" href="https://google.com">OK</a>
 <a href="#" class="remodal-close"></a></div></div>
 
 
