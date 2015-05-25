@@ -9,7 +9,7 @@
 
 <div class="remodal-bg">
   <p align="center">
-  <a href="#modal"><img src='images/homo_habillis11' width="65%" onmouseover="this.src='images/homo_habillis12.png';" onmouseout="this.src='images/homo_habillis11.png';" /></a>
+  <a href="#modal"><img src='images/homo_habillis11.png' width="65%" onmouseover="this.src='images/homo_habillis12.png';" onmouseout="this.src='images/homo_habillis11.png';" /></a>
   </p>
 </div>
 
