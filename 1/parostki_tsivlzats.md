@@ -194,7 +194,7 @@
 
 <div class="remodal-bg">
   <p align="center">
-  <a href="#modal"><img src='images/typilci1.png' width="65%" onmouseover="this.src='images/typilci2.png';" onmouseout="this.src='images/typilci1.png';" /></a>
+  <a href="#modal"><img src='images/typilci1.jpg' width="65%" onmouseover="this.src='images/typilci2.jpg';" onmouseout="this.src='images/typilci1.jpg';" /></a>
   </p>
 </div>
 
