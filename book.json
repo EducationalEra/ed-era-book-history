@@ -1,12 +1,24 @@
 {
     "plugins": [
         "addcssjs",
-        "modal-youtube-video"
+        "modal-youtube-video",
+        "quiz"
     ],
     "pluginsConfig": {
         "addcssjs": {
             "css": ["custom/css/style.css"],
             "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/custom.js", "vendor/js/jquery/jquery.remodal.js"]
-        }
+        },
+        "quiz": {
+            "labels": {
+                "showCorrect" : "Показати правильну відповідь",
+                "check"       : "Перевірити"
+            },
+            "text": {
+                "noChosen"    : "Не вибрано жодної відповіді",
+                "rightAnswer" : "Правильно!",
+                "wrongAnswer" : "Неправильно!"
+            }
+        }        
     }
 }
