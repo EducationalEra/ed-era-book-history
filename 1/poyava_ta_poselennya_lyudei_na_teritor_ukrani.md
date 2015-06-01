@@ -44,7 +44,7 @@
     <td>I тис. до н. е.</td>
     <td>II-I тис. до н. е.</td>
     <td>IV-III тис. до н. е.</td>
-    <td>6 тис. – 2 млн років тому</td>    
+    <td>6 тис. – 2 млн років тому</td>
 </tr>
 </table>
 </div>
@@ -75,16 +75,18 @@
 
 
 <quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
-<question text="Людство зародилося">
-<answer>у центрі Африки</answer>
-<answer>у Північній Америці</answer>
-<answer correct>на півдні Африки</answer>
-<answer>у південно-східній Азії</answer>
-</question>
-<question text="Наукова назва перших людиноподібних мавп">
-<answer correct>Homo habilis </answer>
-<answer>Homo erectus</answer>
-<answer>Homo sapiens</answer>
-<answer>Homo heidelbergensis</answer>
-</question>
+    <question>
+    <p>Людство зародилося</p>
+        <answer>у центрі Африки</answer>
+        <answer>у Північній Америці</answer>
+        <answer correct>на півдні Африки</answer>
+        <answer>у південно-східній Азії</answer>
+    </question>
+    <question>
+        <p>Наукова назва перших людиноподібних мавп</p>
+        <answer correct>Homo habilis </answer>
+        <answer>Homo erectus</answer>
+        <answer>Homo sapiens</answer>
+        <answer>Homo heidelbergensis</answer>
+    </question>
 </quiz>

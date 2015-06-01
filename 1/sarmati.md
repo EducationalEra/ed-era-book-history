@@ -48,15 +48,17 @@
 
 
 <quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
-<question text="Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:">
-<answer correct>кіммерійці, скіфи, сармати;</answer>
-<answer>скіфи, кіммерійці, сармати;</answer>
-<answer>сармати, кіммерійці, скіфи.</answer>
-</question>
-<question text="Кочівники, що змогли побудувати свою протодержаву:">
-<answer>кіммерійці</answer>
-<answer>готи</answer>
-<answer>сармати</answer>
-<answer correct>скіфи</answer>
-</question>
+  <question text="">
+    <p>Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:</p>
+    <answer correct>кіммерійці, скіфи, сармати;</answer>
+    <answer>скіфи, кіммерійці, сармати;</answer>
+    <answer>сармати, кіммерійці, скіфи.</answer>
+  </question>
+  <question text="">
+    <p>Кочівники, що змогли побудувати свою протодержаву:</p>
+    <answer>кіммерійці</answer>
+    <answer>готи</answer>
+    <answer>сармати</answer>
+    <answer correct>скіфи</answer>
+  </question>
 </quiz>

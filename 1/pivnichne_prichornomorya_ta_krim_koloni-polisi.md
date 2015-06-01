@@ -70,8 +70,9 @@ https://www.youtube.com/embed/fYxuN5DDEFc
 <a href="#" class="remodal-close"></a></div></div>
 
 
-<quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Для поліса характерні (виберіть усі правильні варіанти):" multiple>
+<quiz name="History">
+<question multiple>
+    <p>Для поліса характерні (виберіть усі правильні варіанти):</p>
     <answer correct>рабовласницький устрій</answer>
     <answer>велика підвладна територія</answer>
     <answer correct>республіканська форма правління</answer>
