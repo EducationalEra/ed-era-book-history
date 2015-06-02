@@ -54,7 +54,7 @@ VII ст. заволодівши Балканами та тримаючи у с�
 
 
 
-<quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Основою державності прадавніх слов’ян були:</p>
         <answer>рабовласницькі імперії</answer>
