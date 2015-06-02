@@ -47,7 +47,7 @@
 
 
 
-<quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
   <question text="">
     <p>Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:</p>
     <answer correct>кіммерійці, скіфи, сармати;</answer>
