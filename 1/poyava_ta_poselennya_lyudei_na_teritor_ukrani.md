@@ -74,7 +74,7 @@
 
 
 
-<quiz name="History" correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
     <question>
     <p>Людство зародилося</p>
         <answer>у центрі Африки</answer>
