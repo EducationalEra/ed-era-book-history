@@ -250,8 +250,10 @@
         <answer>обробляти метал</answer>
     </question>
     <question text="">
-        <p>Ріст - це:</p>
-        <answer>якісні зміни організму</answer>
-        <answer correct>кількісні зміни організму</answer>
+        <p>Льодовиковий період на території України розпочався у період</p>
+        <answer>раннього палеоліту</answer>
+        <answer>неоліту</answer>
+        <answer correct>середнього палеоліту</answer>
+        <answer>енеоліту</answer>
     </question>
 </quiz>
