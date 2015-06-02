@@ -262,9 +262,9 @@
         <question multiple>
         <p>Трипільська культура була поширена на території сучасних:</p>
         <answer correct>Молдови</answer>
-        <answer correct>України</answer>
         <answer>Росії</answer>
         <answer>Монголії</answer>
+        <answer correct>України</answer>
         <answer>Болгарії</answer>
         <answer>Грузії</answer>
         <answer correct>Румунії</answer>
