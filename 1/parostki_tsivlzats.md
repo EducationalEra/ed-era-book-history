@@ -265,8 +265,5 @@
         <answer>неоліту</answer>
         <answer correct>середнього палеоліту</answer>
         <answer>енеоліту</answer>
-    <explanation>
-    Льодовиковий період на території України розпочався у період середнього палеоліту.
-    </explanation>
     </question>
 </quiz>
