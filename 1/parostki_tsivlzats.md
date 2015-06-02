@@ -241,4 +241,17 @@
 війна стає ремеслом, а воїн – оспівуваною народом професією. Активно йде
 класоутворення. Починаються масштабні міграції людей.
 
-
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>У період середнього палеоліту люди навчилися</p>
+        <answer>зберігати харчі</answer>
+        <answer correct>видобувати вогонь</answer>
+        <answer>приручати тварин</answer>
+        <answer>обробляти метал</answer>
+    </question>
+    <question text="">
+        <p>Ріст - це:</p>
+        <answer>якісні зміни організму</answer>
+        <answer correct>кількісні зміни організму</answer>
+    </question>
+</quiz>
