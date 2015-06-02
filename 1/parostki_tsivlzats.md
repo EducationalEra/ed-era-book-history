@@ -259,7 +259,7 @@
     Льодовиковий період на території України розпочався у період середнього палеоліту.
     </explanation>
     </question>
-        <question text="">
+        <question multiple>
         <p>Трипільська культура була поширена на території сучасних:</p>
         <answer correct>Молдови</answer>
         <answer correct>України</answer>
