@@ -261,9 +261,12 @@
     </question>
         <question text="">
         <p>Трипільська культура була поширена на території сучасних:</p>
-        <answer>Молдови</answer>
-        <answer>неоліту</answer>
-        <answer correct>середнього палеоліту</answer>
-        <answer>енеоліту</answer>
+        <answer correct>Молдови</answer>
+        <answer correct>України</answer>
+        <answer>Росії</answer>
+        <answer>Монголії</answer>
+        <answer>Болгарії</answer>
+        <answer>Грузії</answer>
+        <answer correct>Румунії</answer>
     </question>
 </quiz>
