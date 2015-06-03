@@ -809,7 +809,7 @@ body.remodal-is-active .remodal {
 }
 
 .quiz-question-check {
-  /* анимация кнопки*/
+  /* анимация кнопки */
     background-image: -webkit-linear-gradient(#eee,#d6cece);
     background-image: linear-gradient(#eee,#d6cece);
     -webkit-transition: background 1s ease-out;
