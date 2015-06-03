@@ -2,7 +2,8 @@
     "plugins": [
         "addcssjs",
         "modal-youtube-video",
-        "quiz"
+        "quiz",
+        "gtm"
     ],
     "pluginsConfig": {
         "addcssjs": {
@@ -19,6 +20,9 @@
                 "rightAnswer" : "Правильно!",
                 "wrongAnswer" : "Неправильно!"
             }
+        },
+        "gtm": {
+            "token": "GTM-N86M5F"
         }        
     }
 }
