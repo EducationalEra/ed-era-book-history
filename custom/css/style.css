@@ -877,6 +877,7 @@ body.remodal-is-active .remodal {
         background-image: -webkit-linear-gradient(#704214,#704214);
     background-image: linear-gradient(#704214,#704214 );
     color: #F3EACB;
+    border: 1px solid #704214;
 }
 
 .book.color-theme-2 .quiz-question-check:hover  {
