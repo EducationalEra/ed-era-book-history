@@ -873,16 +873,10 @@ body.remodal-is-active .remodal {
     text-shadow: none;
 }
 
-.btn show-label quiz-question-check:hover {
-    background-image: -webkit-linear-gradient(#704214,#704214);
+.book.color-theme-1 .quiz-question-check:hover  {
+        background-image: -webkit-linear-gradient(#704214,#704214);
     background-image: linear-gradient(#704214,#704214 );
     color: #F3EACB;
-}
-
-.book.color-theme-1 .quiz-question-check:hover  {
-    background-image: -webkit-linear-gradient(#704214,#704214);
-    background-image: linear-gradient(#704214,#704214);
-    color: #BDCADB;
 }
 
 .book.color-theme-2 .quiz-question-check:hover  {
