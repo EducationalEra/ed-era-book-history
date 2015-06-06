@@ -179,29 +179,6 @@
 України у тому числі, неможливо переоцінити. Нестача даних не дає нам
 можливості впевнено називати трипільців нашими прямими пращурами.
 
-
-<div class="remodal-bg">
-  <p align="center">
-  <a href="#modal"><img src='images/typilci1.jpg' width="65%" onmouseover="this.src='images/typilci2.jpg';" onmouseout="this.src='images/typilci1.jpg';" /></a>
-  </p>
-</div>
-
-
-<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <a class="remodal-cancel" href="#">Cancel</a>
-  <a class="remodal-confirm" href="#">OK</a>
-<a href="#" class="remodal-close"></a></div></div>
-
-
 ### Бронзовий вік
 
 Бронза – штучний сплав міді та олова чи свинця. Поширилася на територію
