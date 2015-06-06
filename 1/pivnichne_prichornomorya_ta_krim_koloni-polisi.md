@@ -55,7 +55,7 @@
 |<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
-<quiz name="History">
+<quiz>
 <question multiple>
     <p>Для поліса характерні (виберіть усі правильні варіанти):</p>
     <answer correct>рабовласницький устрій</answer>
