@@ -864,8 +864,6 @@ body.remodal-is-active .remodal {
     text-shadow: none;
 }
 
-font-weight: 600;
-
 .book.color-theme-2 .quiz-question-check, .book.color-theme-2 .button-check, .book.color-theme-2 .button-explain, .button-show-answer  {
     background-image: -webkit-linear-gradient(#1C1F2B,#1C1F2B);
     background-image: linear-gradient(#1C1F2B,#1C1F2B);
