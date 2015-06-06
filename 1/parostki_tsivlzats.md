@@ -70,7 +70,7 @@
 
 
 <div>
-{% modalYoutube %}https://www.youtube.com/embed/L5QvK0VWJPI?autoplay=1|
+{% modalYoutube %}https://www.youtube.com/embed/L5QvK0VWJPI|
 <div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/piznii_pal.png');">
   <div id="youtube-logo">
   </div>
