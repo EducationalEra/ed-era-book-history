@@ -37,9 +37,6 @@
 регіоні, воюючи з грецькими полісами. Як державне та суспільне утворення
 Мала Скіфія проіснувала до ІІІ ст. н.е.
 
-
-<img src="https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/skify.png">
-
 {% modalYoutube %}https://www.youtube.com/embed/RLIrdcFjsDw|
 <div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/skify.png');">
   <div id="youtube-logo">
