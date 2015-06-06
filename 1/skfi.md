@@ -41,7 +41,7 @@
 <img src="https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/skify.png">
 
 {% modalYoutube %}https://www.youtube.com/embed/RLIrdcFjsDw|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/skify.png');">
+<div class="popup" style="background-image: url('http://cs686.vk.me/u91444681/a_79d9307d.jpg');">
   <div id="youtube-logo">
   </div>
 </div>
