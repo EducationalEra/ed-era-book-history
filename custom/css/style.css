@@ -854,11 +854,11 @@ body.remodal-is-active .remodal {
 }
 
 .book.color-theme-1 .quiz-question-check, .book.color-theme-1 .button-check, .book.color-theme-1 .button-explain, .button-show-answer {
-    background-image: -webkit-linear-gradient(#7F562C,#704214);
-    background-image: linear-gradient(#7F562C,#704214);
+    background-image: -webkit-linear-gradient(#F3EACB,#F3EACB);
+    background-image: linear-gradient(#F3EACB,#F3EACB);
     border: 1px solid #704214;
     box-shadow: none;
-    color: #F3EACB;
+    color: #704214;
     background-color: #F3EACB;
     text-shadow: none;
 }
@@ -874,13 +874,15 @@ body.remodal-is-active .remodal {
 }
 
 .btn show-label quiz-question-check:hover {
-    background-image: -webkit-linear-gradient(#E1E0E0,#CFC6C6);
-    background-image: linear-gradient(#E1E0E0,#CFC6C6);
+    background-image: -webkit-linear-gradient(#704214,#704214);
+    background-image: linear-gradient(#704214,#704214 );
+    color: #F3EACB;
 }
 
 .book.color-theme-1 .quiz-question-check:hover  {
     background-image: -webkit-linear-gradient(#704214,#704214);
     background-image: linear-gradient(#704214,#704214);
+    color: #BDCADB;
 }
 
 .book.color-theme-2 .quiz-question-check:hover  {
