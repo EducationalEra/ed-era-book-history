@@ -887,7 +887,7 @@ font-weight: 600;
     background-image: -webkit-linear-gradient(#BDCADB,#BDCADB);
     background-image: linear-gradient(#BDCADB,#BDCADB);
     color: #1C1F2B;
-    border: 1px solid #BDCADB;
+    border-color: #BDCADB;
 }
 
 .quiz-question-explanation {
