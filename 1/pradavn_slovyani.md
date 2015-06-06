@@ -2,7 +2,7 @@
 =================
 <div>
 {% modalYoutube %}https://www.youtube.com/embed/8qkuaLLekbc|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/crym.png');">
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/goty.png');">
   <div id="youtube-logo">
   </div>
 </div>
