@@ -853,9 +853,6 @@ body.remodal-is-active .remodal {
     background-clip: padding-box;
 }
 
-.buttons {
-    font-weight: 600;
-}
 
 .book.color-theme-1 .quiz-question-check, .book.color-theme-1 .button-check, .book.color-theme-1 .button-explain, .button-show-answer {
     background-image: -webkit-linear-gradient(#F3EACB,#F3EACB);
@@ -866,6 +863,8 @@ body.remodal-is-active .remodal {
     background-color: #F3EACB;
     text-shadow: none;
 }
+
+font-weight: 600;
 
 .book.color-theme-2 .quiz-question-check, .book.color-theme-2 .button-check, .book.color-theme-2 .button-explain, .button-show-answer  {
     background-image: -webkit-linear-gradient(#1C1F2B,#1C1F2B);
@@ -881,7 +880,7 @@ body.remodal-is-active .remodal {
         background-image: -webkit-linear-gradient(#704214,#704214);
     background-image: linear-gradient(#704214,#704214 );
     color: #F3EACB;
-    border: 1px solid #704214;
+    border-color: #704214;
 }
 
 .book.color-theme-2 .quiz-question-check:hover  {
