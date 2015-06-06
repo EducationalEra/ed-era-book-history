@@ -40,12 +40,23 @@
 господарство полісів, які поступово замітаються пісками історії. Лише
 Пантикапей та Херсонес уціліли та потрапили під владу Візантії.
 
+
 <div align="center">
 <img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" class="image">
 <br/>
 </div>
 
-https://www.youtube.com/embed/fYxuN5DDEFc
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/fYxuN5DDEFc|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/crym.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
+
+
+
 
 
 <div class="remodal-bg">
