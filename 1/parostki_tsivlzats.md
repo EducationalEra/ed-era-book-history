@@ -168,7 +168,7 @@
   <div id="youtube-logo">
   </div>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+|<a href="https://study.ed-era.com/courses/EdEra/P101/p101/about?_ga=1.58878829.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
