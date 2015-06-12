@@ -373,82 +373,35 @@ transition: all 0.8s ease;
     height:120;
 }
 
-#play, #pause, #fwd, #rew {
-   width:80px;
-   height: 80px;
-   background: white;
-   position: relative;
-   margin-top: 10px;
-   display: block;
-}
-
-#play:before {
-    width: 0;
-    height: 0;
-    border-left: 30px solid black;
-    border-right: 30px solid transparent;
-    border-top: 30px solid transparent;
-    border-bottom: 30px solid transparent;
-    position: absolute;
-    content: "";
-    top: 10px;
-    left: 25px;
-}
-
-img #my-img {
-    background-repeat: no-repeat;
-}
-
-img #my-img:hover {
-    content: url('./2222.png');
-}
-
-table.center {
-    margin-left:13%;
-    margin-right:13%;
-}
-
-img .remodal {
-   border:1px solid #021a40;
-}
-
-
 
 /* Картинка для видео*/
 .popup {
-  width:501px;
   margin: 0 auto;
   height: 282px;
-  position: relative;
+  display:inline-block;
   border: 1px solid
   border: 1px solid #ddd;
   box-shadow: inset 0 0 0 1px #eee;
   border-radius: 3px;
 }
 
-#youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
-      height: 45px;
-      width: 64px;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      margin-right: -50%;
-      transform: translate(-50%, -50%)
-}
-
-.popup:hover #youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
-}
-
 @media only screen and (min-width:320px){
-    .popup {
+.popup {
       width: 320px;
       height: 180px;
       margin: 0 auto;
       background-size: 320px;
       clear: both;
-    }
+}
+#youtube-logo {
+      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
+      height: 45px;
+      width: 64px;
+      position: absolute;
+      -ms-transform: translate(128px,68px); /* IE 9 */
+   	  -webkit-transform: translate(128px,68px); /* Safari */
+      transform: translate(128px,68px);
+}
 }
 
 @media only screen and (min-width:510px){
@@ -459,4 +412,18 @@ img .remodal {
         background-size: 500px;
         clear: both;
     }
+    
+    #youtube-logo {
+      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
+      height: 45px;
+      width: 64px;
+      position: absolute;
+      -ms-transform: translate(218px,118px); /* IE 9 */
+   	  -webkit-transform: translate(218px,118px); /* Safari */
+      transform: translate(218px,118px);
+}
+}
+
+.popup:hover #youtube-logo {
+      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
 }
