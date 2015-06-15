@@ -260,19 +260,19 @@ default – "White"
 }
 
 /*Для таблицы*/
-.left {
-    font-weight: 400;
-    text-align: left;
-    font-size: 11pt;
-}
-.center {
-    /*font-weight: 850;
+.centered {
     text-align: center;
-    vertical-align:middle;
-    font-size: 12pt;*/
-    margin: 0px auto;
-    
 }
+
+.centered-table-wrapper {
+    width: 100%;
+}
+
+.centered-table {
+    display: table !important;
+    width: initial !important;
+    margin:auto;
+ }
 
 /*knopka*/
 .but {
