@@ -10,7 +10,7 @@
 
 
 <div class="fluidMedia">
-<iframe src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
