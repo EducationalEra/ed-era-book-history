@@ -13,22 +13,6 @@
   </p>
 </div>
 
-
-<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <a class="remodal-cancel" href="#">Cancel</a>
-  <a class="remodal-confirm" href="#">OK</a>
-<a href="#" class="remodal-close"></a></div></div>
-
-
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
@@ -48,7 +32,7 @@
 </tr>
 </table>
 </div>
-
+<br/>
 <div class="centered-table-wrapper">
 <table class="centered-table">
  <tr>
