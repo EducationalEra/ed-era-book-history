@@ -446,7 +446,8 @@ default – "White"
 }
 
 .fluidMedia iframe {
-    margin: auto;
+    display:block;
+    margin: 0px auto;
     width: 510px;
     height: 287px;
 }
