@@ -419,3 +419,12 @@ default – "White"
 .popup:hover #youtube-logo {
       background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
 }
+
+/* video */
+.fluidMedia iframe {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
