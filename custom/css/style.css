@@ -422,7 +422,7 @@ default – "White"
 
 /* video */
 
-@media only screen and (min-width:320px){
+@media only screen and (min-width:320px) and (max-width: 640px) (min-width:509px){
 .fluidMedia {
     position: relative;
     padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
