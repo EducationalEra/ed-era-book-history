@@ -430,7 +430,9 @@ default – "White"
     overflow: hidden;
 }
 .fluidMedia iframe {
-    margin: 0px auto;
+    position: absolute;
+    top: 0; 
+    left: 0;
     width: 100%;
     height: 100%;
 }
@@ -445,9 +447,7 @@ default – "White"
     overflow: hidden;
 }
 .fluidMedia iframe {
-    position: absolute;
-    top: 0; 
-    left: 0;
+    margin: 0px auto;
     width: 65%;
     height: 65%;
 }
