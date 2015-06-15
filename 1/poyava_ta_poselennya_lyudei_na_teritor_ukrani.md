@@ -18,7 +18,8 @@
 
 
 
-<table align="center">
+<div class="centered-table-wrapper">
+<table class="centered-table">
 <tr>
     <td><b>Залізний вік</b></td>
     <td><b>Бронзовий вік</b></td>
@@ -32,10 +33,10 @@
     <td>6 тис. – 2 млн років тому</td>
 </tr>
 </table>
+</div>
 
-
-
-<table align="center">
+<div class="centered-table-wrapper">
+<table class="centered-table">
  <tr>
     <th colspan="5">Кам'яний вік</th>
   </tr>
@@ -55,7 +56,7 @@
         <td>2 млн.–150 тис.</td>
    </tr>
 </table>
-
+</div>
 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
