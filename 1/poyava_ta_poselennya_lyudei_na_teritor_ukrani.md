@@ -7,14 +7,11 @@
 вона потрапила через Балкани та Центральну Європу близько 1 млн років
 тому.
 
-<div class="remodal-bg">
-  <p align="center">
-  <a href="#modal"><img src='images/homo_habillis11.png' width="65%" onmouseover="this.src='images/homo_habillis12.png';" onmouseout="this.src='images/homo_habillis11.png';" /></a>
-  </p>
+
+
+<div class="fluidMedia">
+<iframe src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<iframe style="width: 90%; border:none" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
-
 
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
 час матеріалом. І історію України зачепили усі без винятку періоди.
