@@ -31,7 +31,7 @@
     <td>6 тис. – 2 млн років тому</td>
 </tr>
 </table>
-
+</div>
 
 <div class="center">
 <table>
