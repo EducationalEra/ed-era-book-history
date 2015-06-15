@@ -266,11 +266,12 @@ default – "White"
     font-size: 11pt;
 }
 .center {
-    font-weight: 850;
+    /*font-weight: 850;
     text-align: center;
-    margin: 0px auto;
     vertical-align:middle;
-    font-size: 12pt;
+    font-size: 12pt;*/
+    margin: 0px auto;
+    
 }
 
 .im:hover {
