@@ -16,7 +16,7 @@
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
-<div class="centered-table-wrapper">
+<div align="center">
 <table class="centered-table">
 <tr>
     <td><b>Залізний вік</b></td>
@@ -33,7 +33,7 @@
 </table>
 </div>
 <br/>
-<div class="centered-table-wrapper">
+<div align="center">
 <table class="centered-table">
  <tr>
     <th colspan="5">Кам'яний вік</th>
