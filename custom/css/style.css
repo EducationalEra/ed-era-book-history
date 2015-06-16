@@ -421,7 +421,6 @@ default – "White"
 }
 
 /* video */
-
 @media only screen and (min-width:320px) and (max-width: 509px){
 .fluidMedia {
     position: relative;
@@ -452,3 +451,18 @@ default – "White"
     height: 287px;
 }
 }
+
+/* More info (course) */
+.box {
+  background: #2db34a;
+  border-radius: 6px
+  transition-property: background, border-radius;
+  transition-duration: .2s, .5s;
+  transition-timing-function: linear, ease-in;
+  transition-delay: 0s, .5s;
+}
+.box:hover {
+  background: #ff7b29;
+  border-radius: 50%;
+}
+
