@@ -301,6 +301,7 @@ default – "White"
 .blText{
     display: block;
     float: left;
+    width: 70%;
 }
 .blButton{
     display:block;
