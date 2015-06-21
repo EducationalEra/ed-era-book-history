@@ -415,7 +415,7 @@ default – "White"
    	  -webkit-transform: translate(218px,118px); /* Safari */
       transform: translate(218px,118px);
 }
-
+}
 
 .popup:hover #youtube-logo {
       background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
