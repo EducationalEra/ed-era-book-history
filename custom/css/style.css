@@ -298,6 +298,31 @@ default – "White"
     background: #faaf00;
     border: solid 1px #faaf00;
 }
+.blText{
+    display: block;
+    float: left;
+    height: 32px;
+    width: 100px;
+    background-color: darkgrey;
+    color: #FFFFFF;
+    height: 40px;
+}
+.blButton{
+    display:block;
+    float: left;
+    margin: -1px -2px -2px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:7px;
+    padding-bottom:7px;
+    background: #faaf00; /*#fac864;*/
+    color: white;
+    font-weight: 700;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #faaf00;
+}
 
 .book.color-theme-1 .but {
     padding-left:10px;
@@ -467,12 +492,5 @@ default – "White"
   border-radius: 50%;
 }
 
-.toCourse{
-  background-color: darkgrey;
-  color: #FFFFFF;
-  height: 40px;
-  visibility: visible;
-  position: relative;
-  width: 100%;
-}
+
 
