@@ -301,11 +301,6 @@ default – "White"
 .blText{
     display: block;
     float: left;
-    height: 32px;
-    width: 100px;
-    background-color: darkgrey;
-    color: #FFFFFF;
-    height: 40px;
 }
 .blButton{
     display:block;
@@ -322,6 +317,12 @@ default – "White"
     -moz-border-radius: 4px;
     border-radius: 4px;
     border: solid 1px #faaf00;
+}
+.toCourse{
+    width: 100px;
+    background-color: darkgrey;
+    color: #FFFFFF;
+    height: 40px;
 }
 
 .book.color-theme-1 .but {
