@@ -454,48 +454,7 @@ default – "White"
 }
 }
 
-.boxCourse{
-    top: 5px;
-    position: relative;
-    visibility: visible;
-    display:block;
-    margin: 0px auto;
-    width: 510px;
-    height: 40px;
-    background-color: #EEE;
-    color:#FFFFFF;
-    background-image: url(close.png);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 30px;
-    
-}
 
-
-.textBlock{
-    display: inline;
-    width: 70%;
-    float: left;
-    padding-left: 10px;
-    color: black;
-    font-family: Sans-serif !important;
-    font-size: 13px;
-    margin-top: 5px;
-}
-
-.buttonBlock{
-    
-    width: 20%;
-    display: inline;
-    position: relative;
-    right: 5px;
-    top: 5px;
-}
-
-.eo{
-    color: #faaf00;
-    font-weight: bold;
-}
 
 
 
