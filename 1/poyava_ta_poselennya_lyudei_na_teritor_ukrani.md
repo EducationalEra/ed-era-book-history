@@ -15,7 +15,7 @@
 </div>
 
 <div class="boxCourse">
-<div class="textBlock">Ще більше відео матеріалів в <eo>онлайн-курсі</eo> від розробників цієї книги</div>
+<div class="textBlock">Ще більше відео матеріалів в <span class="eo">онлайн-курсі</span> від розробників цієї книги</div>
 <div class="buttonBlock"><button class="but"> Перейти на курс</button></div>
 </div>    
 
