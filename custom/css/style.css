@@ -462,7 +462,7 @@ default – "White"
     margin: 0px auto;
     width: 510px;
     height: 40px;
-    background: #EEE;
+    background-color: #EEE;
     color:#FFFFFF;
     background-image: url(close.png);
     background-position: right;
