@@ -9,9 +9,6 @@
 
 
 
-<div class="fluidMedia">
-<iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
-</div>
 
 <div class="fluidMedia">
 <iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
