@@ -14,10 +14,7 @@
 <iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="boxCourse">
-<div class="textBlock">Ще більше відео матеріалів в <span class="eo">онлайн-курсі</span> від розробників цієї книги</div>
-<div class="buttonBlock"><button class="but"> Перейти на курс</button></div>
-</div>    
+   
 
 
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
