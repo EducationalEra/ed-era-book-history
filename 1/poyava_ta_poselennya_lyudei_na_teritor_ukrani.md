@@ -13,6 +13,15 @@
 <iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
+</div>
+    
+<div class="box">
+    <div class="textBlock">Ще більше відео матеріалів в <eo>онлайн-курсі</eo> від розробників цієї книги</div>
+    <div class="buttonBlock"><button class="but"> Перейти на курс</button></div>
+</div>
+
 Прадавню історію поділяють на періоди, пов’язані з найпоширенішим на той
 час матеріалом. І історію України зачепили усі без винятку періоди.
 
