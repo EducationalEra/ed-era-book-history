@@ -14,7 +14,7 @@
 <iframe align="center" src="https://www.youtube.com/embed/hnH54iMdU8E" frameborder="0" allowfullscreen></iframe>
 </div>
     
-<div class="box">
+<div class="boxCourse">
     <div class="textBlock">Ще більше відео матеріалів в <eo>онлайн-курсі</eo> від розробників цієї книги</div>
     <div class="buttonBlock"><button class="but"> Перейти на курс</button></div>
 </div>
