@@ -414,7 +414,7 @@ default – "White"
    	  -webkit-transform: translate(218px,118px); /* Safari */
       transform: translate(218px,118px);
 }
-}
+
 
 .popup:hover #youtube-logo {
       background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
@@ -437,6 +437,7 @@ default – "White"
     width: 100%;
     height: 100%;
 }
+
 }
 
 @media only screen and (min-width:510px){
@@ -464,5 +465,14 @@ default – "White"
 .box:hover {
   background: #ff7b29;
   border-radius: 50%;
+}
+
+.toCourse{
+  background-color: darkgrey;
+  color: #FFFFFF;
+  height: 40px;
+  visibility: visible;
+  position: relative;
+  width: 100%;
 }
 
