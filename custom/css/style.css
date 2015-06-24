@@ -483,7 +483,7 @@ a.knopka :hover {
     width: 1px;
     height: 1px;
   }
-  a.knopka {
+  .btn-knopka {
     display: block;
     position:relative;
     width: 136px;
