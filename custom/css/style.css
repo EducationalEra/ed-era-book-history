@@ -274,7 +274,7 @@ default – "White"
     margin:auto;
  }
 
-/*video   */
+/*video + description */
 .description {
   display: block;
   background-color: rgba(0, 0, 0, 0.7);
