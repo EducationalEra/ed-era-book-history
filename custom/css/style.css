@@ -289,10 +289,11 @@ default – "White"
   font-family: 'Open Sans', sans-serif !important;
 }
 
-.text span {
-  color: #FFBD0D;
-  font-weight: 600;
+.text a.knopka1 {
+  color: #FFBD0D !important;
+  font-weight: 600 !important;
 }
+
 
 .btn-knopka {
   background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);
