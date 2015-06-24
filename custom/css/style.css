@@ -304,10 +304,9 @@ default – "White"
 a.knopka {
   text-decoration: none;
   font-weight: 300;
-  font-family: 'Open Sans', sans-serif !important;
-  color: black;
+  color: #000000;
   transition: color 0.1s linear;
-
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 a.knopka :hover {
