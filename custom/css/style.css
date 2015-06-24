@@ -429,7 +429,7 @@ default – "White"
   font-family: 'Open Sans', sans-serif !important;
 }
 
-span {
+.text span {
   color: #FFBD0D;
   font-weight: 600;
 }
@@ -483,7 +483,7 @@ a.knopka :hover {
     width: 1px;
     height: 1px;
   }
-  .link {
+  a.knopka {
     display: block;
     position:relative;
     width: 136px;
@@ -517,7 +517,7 @@ a.knopka :hover {
     width: 320px;
   }
 
-  .btn-link {
+  .btn-knopka {
     position: absolute;
     display: inline;
     margin: 18.5px 10px 20px 0px;
