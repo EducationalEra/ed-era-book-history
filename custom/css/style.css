@@ -439,6 +439,7 @@ default – "White"
   border: 1px solid #FFBD0D;
   border-radius: 4px;
   padding: 4px 3px;
+  color: black;
 }
 
 .link {
