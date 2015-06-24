@@ -18,12 +18,11 @@
 <img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/sarmaty.svg"/>
 
 
-{% modalYoutube %}https://www.youtube.com/embed/oU6hYD2VQ_s|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/sarmaty.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/oU6hYD2VQ_s" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
+</div>
 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
