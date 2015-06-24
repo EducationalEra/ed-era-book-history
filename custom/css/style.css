@@ -453,6 +453,7 @@ default – "White"
 
 .link :hover {
   color: #0F5181;
+  text-decoration: none;
 }
 
 
