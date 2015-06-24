@@ -1,3 +1,3 @@
  $(document).ready(function(){
-    $( "div.popup" ).replaceWith( "<div class='" + "description" + "'><div class='" + "text" +"'>Ще більше відео матеріалів в <span><a href='"+ "https://study.ed-era.com/courses/EdEra/P101/p101/about" +"'>онлайн-курсі</a></span> від розробників цієї книги</div><div class='" + "btn-link" +"'><a class='"+"link"+"' href='" + "https://study.ed-era.com/courses/EdEra/P101/p101/about" + "'>Перейти на курс</a></div>" );
+    $( "div.popup" ).replaceWith( "<div class='" + "description" + "'><div class='" + "text" +"'>Ще більше відео матеріалів в <span><a class='"+"knopka1"+"' href='"+ "https://study.ed-era.com/courses/EdEra/P101/p101/about" +"'>онлайн-курсі</a></span> від розробників цієї книги</div><div class='" + "btn-knopka" +"'><a class='"+"knopka"+"' href='" + "https://study.ed-era.com/courses/EdEra/P101/p101/about" + "'>Перейти на курс</a></div>" );
     });
