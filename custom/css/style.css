@@ -439,14 +439,13 @@ default – "White"
   border: 1px solid #FFBD0D;
   border-radius: 4px;
   padding: 4px 3px;
-  color: black;
 }
 
 .link {
   text-decoration: none;
   font-weight: 300;
   font-family: 'Open Sans', sans-serif !important;
-  color: #000000;
+  color: black;
   transition: color 0.1s linear;
 
 }
