@@ -429,19 +429,18 @@ default – "White"
   font-family: 'Open Sans', sans-serif !important;
 }
 
-.text span {
-  color: #FFBD0D;
-  font-weight: 600;
-}
-
-.btn-link {
+.btn-knopka {
   background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);
   border: 1px solid #FFBD0D;
   border-radius: 4px;
   padding: 4px 3px;
 }
 
-.link {
+a.knopka1 {
+  color: #FFBD0D;
+  font-weight: 600;
+}
+a.knopka {
   text-decoration: none;
   font-weight: 300;
   font-family: 'Open Sans', sans-serif !important;
@@ -450,7 +449,7 @@ default – "White"
 
 }
 
-.link :hover {
+a.knopka :hover {
   color: #0F5181;
   text-decoration: none;
 }
