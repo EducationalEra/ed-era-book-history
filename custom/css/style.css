@@ -405,7 +405,57 @@ default – "White"
   color: #0F5181;
 }
 */
-@media only screen and (min-width:320px) and (max-width: 509px){
+
+/*video
+<div class="fluidMedia">
+<iframe src="https://www.youtube.com/embed/bVlO6JCrF1U" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+*/
+
+
+.description {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: -4px auto;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.50);
+}
+
+.text {
+  display: inline;
+  float: left;
+  color: white;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.text span {
+  color: #FFBD0D;
+  font-weight: 600;
+}
+
+.btn {
+  background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);
+  border: 1px solid #FFBD0D;
+  border-radius: 4px;
+  padding: 4px 3px;
+}
+
+.btn a {
+  text-decoration: none;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif !important;
+  color: #000000;
+  transition: color 0.1s linear;
+
+}
+
+.btn a:hover {
+  color: #0F5181;
+}
+
+
+@media only screen and (min-width:10px) and (max-width: 509px){
   .fluidMedia {
     position: relative;
     padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
