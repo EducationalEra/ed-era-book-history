@@ -429,7 +429,7 @@ default – "White"
   font-family: 'Open Sans', sans-serif !important;
 }
 
-.text a.knopka1 {
+span {
   color: #FFBD0D;
   font-weight: 600;
 }
