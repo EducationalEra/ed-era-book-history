@@ -69,14 +69,13 @@
 <img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
 
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/L5QvK0VWJPI|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/piznii_pal.png');">
-  <div id="youtube-logo">
-  </div>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/L5QvK0VWJPI" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
+
 
 Вірування та мистецтво стрімко розвиваються, хоча й лишаються
 примітивними. Окрім образотворчого мистецтва, з’являється і прикладне, а
@@ -162,13 +161,12 @@
 <img  src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="450" height="338" class="image"/>
 </div>
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/s41p9IS3UYU|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-history/master/1/images/tryp.png');">
-  <div id="youtube-logo">
-  </div>
+
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/s41p9IS3UYU" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/P101/p101/about?_ga=1.58878829.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 У суспільному житті трипільці звернулися до патріархального устрою з
