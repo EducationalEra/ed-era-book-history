@@ -347,6 +347,7 @@ default – "White"
 }
 
 
+/*
 .cls {
     opacity: 0.6;
     transition: opacity 1s ease-in-out;
@@ -403,7 +404,7 @@ default – "White"
 .btn a:hover {
   color: #0F5181;
 }
-
+*/
 
 @media only screen and (min-width:10px) and (max-width: 509px){
   .fluidMedia {
