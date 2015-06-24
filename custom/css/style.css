@@ -304,9 +304,9 @@ default – "White"
 .btn-knopka a.knopka {
   text-decoration: none;
   font-weight: 600;
-  color: #000000;
-  /*transition: color 0.1s linear;
-  font-family: 'Open Sans', sans-serif !important;*/
+  color: #000000 !important;
+  transition: color 0.1s linear;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 .btn-knopka a.knopka :hover {
