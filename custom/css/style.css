@@ -312,7 +312,7 @@ default – "White"
 
 .btn-knopka a.knopka :hover {
   color: #0F5181;
-  text-decoration: none;
+  text-decoration: none!;
 }
 
 
