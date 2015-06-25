@@ -14,7 +14,7 @@
             "labels": {
                 "showCorrect" : "Показати правильну відповідь",
                 "check"       : "Перевірити",
-                "explanationHeader": "Пояснення"
+                "showExplanation" : "Пояснення"
             },
             "text": {
                 "noChosen"    : "Не вибрано жодної відповіді",
