@@ -12,7 +12,7 @@
 островах, в Іспанії тощо.
 
 
-<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/sarmaty.svg"/>
+<img class="image" src="sarmaty.png"/>
 
 Культура була здебільшого наслідною до скіфської, проте військові
 рішення були новими і прогресивними.
