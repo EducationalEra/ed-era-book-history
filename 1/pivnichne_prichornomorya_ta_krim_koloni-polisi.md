@@ -19,7 +19,7 @@
 **Пантикапей** та **Феодосія**.
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic9.svg" class="image"/>
+<img src="pic9.png" class="image"/>
 </div>
 
 Міста-поліси були самостійними рабовласницькими республіками, наслідуючи
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic10.svg" width="650" class="image">
+<img src="pic10.png" width="650" class="image">
 <br/>
 </div>
 
