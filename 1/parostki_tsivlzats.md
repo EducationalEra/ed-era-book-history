@@ -65,8 +65,7 @@
 *Межиріцька (Черкаська обл.)*
 
 
-<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic3.svg" />
-
+<img class="image" src="pic3.png"/>
 
 
 <div class="fluidMedia">
@@ -100,8 +99,7 @@
 *Мурзак-Коба, Фатьма-Коба (Крим), Гребениківська (Одещина)*
 
 
-<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic4.svg" />
-
+<img class="image" src="pic4.png" />
 
 
 ### Неоліт {#неоліт .unnumbered}
@@ -132,8 +130,7 @@
 *Пам’ятки неолітичної культури: с. Микільська Слобідка на Київщині та
 Кам’яна Могила у Приазов’ї.*
 
-<img src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic5.svg" class="image"/>
-
+<img src="pic5.png" class="image"/>
 
 ### Енеоліт (мідний вік)
 
@@ -143,7 +140,7 @@
 суспільства. Використовується поділ праці, первісні люди приручають коня.
 
 <div align="center">
-<img  src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic6.svg" width="450" height="338" class="image"/>
+<img  src="pic6.png" width="450" height="338" class="image"/>
 </div>
 
 В українській історіографії цей період пов’язаний з трипільскою
