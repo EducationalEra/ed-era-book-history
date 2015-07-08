@@ -34,7 +34,7 @@
 *Киїк-Коба (Крим), Рихта (Волинь), Червоний Яр та Деркул (Донбас)*
 
 
-<img class="image" src="https://rawgit.com/chudaol/ed-era-book-history/master/images/pic2.svg" />
+<img class="image" src="pic2.png" />
 
 
 Зважаючи на суворі природні умови, люди починають виготовляти одяг,
