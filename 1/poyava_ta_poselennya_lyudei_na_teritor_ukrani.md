@@ -48,7 +48,7 @@
   <tr>
     <th rowspan="2">неоліт</th>
     <th rowspan="2">мезоліт</th>
-    <th colspan="3">палеліт</th>
+    <th colspan="3">палеоліт</th>
   </tr>
     <th>пізній</th>
     <th>середній</th>
