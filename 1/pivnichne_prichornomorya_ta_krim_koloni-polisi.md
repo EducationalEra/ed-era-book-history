@@ -4,13 +4,16 @@
 Через низку проблем соціально-побутового характеру, в VII-VI ст. до н.е.
 греки почали переселятися на узбережжя Середземного, Егейського, Чорного
 та Азовського морів. Цей процес має назву «Велика грецька колонізація».
-
+<div class="space">
+</div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Полiс</b> — мiсто-держава, мiська громада; особлива форма  соцiально-економiчної та полiтичної органiзацiї  суспiльства, типова для Стародавньої Грецiї та Риму.
 </div>
+</div>
+<div class="space">
 </div>
 
 Першим давньогрецьким полісом на території України стало місто
@@ -51,6 +54,8 @@
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/fYxuN5DDEFc" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
+</div>
+<div class="space">
 </div>
 
 <quiz>
