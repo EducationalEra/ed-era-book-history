@@ -11,7 +11,7 @@
    * [Прадавні слов’яни](1/pradavn_slovyani.md)
 * [Утворення Київської Русi](2/utvorennya_kivsko_rusi.md)
    * [Вступ](2/utvorennya_kivsko_rusi.md)
-       * Заснування Києва
+       * [Заснування Києва](2/zasnuvannya_kiva.md)
        * Першi правителi
        * Аскольд та Дiр
    * Олег (845-912)
