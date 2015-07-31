@@ -28,3 +28,13 @@
 навколо Києва утворюються Полянське та Київське князівства, що
 об’єднують полян, древлян і сіверян і утворюють так звану Руську землю,
 надалі – Київську Русь.
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>Кількість засновників Києва</p>
+<answer>1</answer>
+<answer>2</answer>
+<answer>3</answer>
+<answer correct>4</answer>
+</question>
+</quiz>
