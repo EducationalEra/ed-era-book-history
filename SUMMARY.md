@@ -12,7 +12,7 @@
 * [Утворення Київської Русi](2/utvorennya_kivsko_rusi.md)
    * [Вступ](2/utvorennya_kivsko_rusi.md)
        * [Заснування Києва](2/zasnuvannya_kiva.md)
-       * Першi правителi
+       * [Першi правителi](2/pershi_praviteli.md)
        * Аскольд та Дiр
    * Олег (845-912)
    * Iгор (бл. 879—945)
