@@ -13,7 +13,7 @@
    * [Вступ](2/utvorennya_kivsko_rusi.md)
        * [Заснування Києва](2/zasnuvannya_kiva.md)
        * [Першi правителi](2/pershi_praviteli.md)
-       * Аскольд та Дiр
+       * [Аскольд та Дiр](2/askold_ta_dir.md)
    * Олег (845-912)
    * Iгор (бл. 879—945)
    * Ольга (бл. 890-969)
