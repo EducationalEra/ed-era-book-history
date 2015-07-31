@@ -10,7 +10,7 @@
    * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](1/pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
    * [Прадавні слов’яни](1/pradavn_slovyani.md)
 * [Утворення Київської Русi](2/utvorennya_kivsko_rusi.md)
-   * Вступ
+   * [Вступ](1vstup.md)
        * Заснування Києва
        * Першi правителi
        * Аскольд та Дiр
