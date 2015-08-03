@@ -29,6 +29,15 @@
 збудованому Спасо-Преображенському соборі у Чернігові. А Ярослав став
 одноосібним правителем Русі і, нарешті, переїхав до Києва.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/55-g4gekb6U" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
+
 Військова політика Ярослава, хоч і не була агресивною і масштабною, все
 ж таки мала місце:
 
@@ -59,6 +68,15 @@
 Прибалтиці; Ярославль на берегах Волги. Також активізувалося будівництво
 безпосередньо у містах: розростаються Київ, Чернігів, Турів, Переяслав,
 Володимир-Волинський. 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/9NYOqX12CWY" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
 
 <div align="center">
 <img src="9r_mista.jpg" width="500"/>
