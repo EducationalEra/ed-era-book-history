@@ -1,6 +1,14 @@
 Ярополк (956-980)
 =================
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/uq25m_eyTpA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
 Почав своє правління у 972 році, посівши київський престол як найстарший
 із Святославовичів. До 977 року ситуація у країні була стабільна:
 Ярополк намагався будувати дипломатичні відносини із Західною Європою і
