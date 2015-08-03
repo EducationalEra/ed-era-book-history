@@ -34,6 +34,15 @@
 Керченського півострова. Для деескалації конфлікту імператор таки дає
 згоду на одруження своєї сестри з Володимиром. Останній, у якості викупу
 за наречену, повертає Херсонес під владу візантійської корони.
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/JPNlF8kN2H4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
 * 991 — після походу у Прикарпаття у складі Русі опиняються білі
 хорвати.
 
