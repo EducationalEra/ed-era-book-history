@@ -78,6 +78,15 @@
     У «грецькій вірі» світська влада домінувала над релігією, тому це
     було дуже на руку князеві.
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/lyDxETVs02M" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
 Як вже було зазначено, прийняття християнства (православного) Руссю
 вцілому та Володимиром зокрема було наріжним каменем
 русько-візантійських домовленостей щодо віськової допомоги та одруження
