@@ -22,6 +22,15 @@
 князем, а молодший Володимир сів у Новгороді. Влада була розділена, і
 Святослав міг продовжувати свої походи.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/VNgSa-lwQaA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
+
 Але повернемося у 964 рік. Це час першого походу Святослава, на той час
 вже повноцінного Київського князя. Похід був здійснений на слов’янське
 плем’я в’ятичів, що підкорялися та сплачували данину Хозарському
@@ -88,6 +97,15 @@
 бувши язичником, дозволив поховати її за християнським звичаєм. Після
 поділу Русі та смерті матері його більше нічого не тримало у Києві, тому
 був розпочатий другий болгарський похід.
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/_2F2jOXz2FU" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+<div class="space">
+</div>
+
 
 <div align="center">
 <img src="bol_2_new.jpg" width="550">
