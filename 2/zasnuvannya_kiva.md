@@ -25,7 +25,13 @@
 Тобто етнонім «поляни» поступово витісняється новим – «кияни», адже навколо Києва утворюються Полянське та Київське князівства, що об’єднують полян, древлян і сіверян і утворюють так звану Руську землю,
 надалі – Київську Русь.
 
-<!-- видео 1 -->
+<div class="space">
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/t32eI9QVnDs" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+</div>
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
