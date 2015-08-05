@@ -115,3 +115,13 @@
 сходженню Русі на лідируючі позиції на материку сприяла іще одна
 надважлива подія.
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>Анна Ярославна – королева</p>
+<answer>Угорщини</answer>
+<answer>Англії</answer>
+<answer>Польщі</answer>
+<answer correct>Франції</answer>
+</question>
+</quiz>
