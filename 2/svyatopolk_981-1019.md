@@ -70,3 +70,13 @@
 <div class="space">
 </div>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<answer>Борис, Гліб, Святослав, Мстислав</answer>
+<p>Брати, що їх, як вважається, вбив Святополк</p>
+<answer correct>Борис, Гліб, Святослав</answer>
+<answer>Борис, Гліб, Святослав, Мстислав</answer>
+<answer>Борис, Гліб</answer>
+<answer>Борис, Гліб, Святослав, Мстислав, Ярослав</answer>
+</question>
+</quiz>
