@@ -197,3 +197,13 @@
 [^1]: Капище – частина язичницького храму, що знаходилося за вівтарем і де розташовувалися ідоли чи інші культові речі
 
 [^2]: євреї за свою багатовікову історію користувалися двома основними мовами – ідишем та івритом
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question multiple>
+<p>Вкажіть обидва можливих місця хрещення Володимира</p>
+<answer correct>Київ</answer>
+<answer>Новгород</answer>
+<answer correct>Херсонес</answer>
+<answer>Царгород</answer>
+</question>
+</quiz>
