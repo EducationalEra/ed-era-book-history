@@ -196,3 +196,14 @@
 [^4]: за версією О. Д. Бойка
 
 [^5]: Болгарська держава на Балканах, що існувала 681—1018 роках. Історія Болгарії налічує декілька періодів царств, які мають порядкову нумерацію.
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
+<p>Князь Святослав загинув</p>
+<answer>970 року</answer>
+<answer>971 року</answer>
+<answer correct>972 року</answer>
+<answer>974 року</answer>
+</question>
+</quiz>
