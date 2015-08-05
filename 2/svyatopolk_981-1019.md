@@ -79,4 +79,11 @@
 <answer>Борис, Гліб</answer>
 <answer>Борис, Гліб, Святослав, Мстислав, Ярослав</answer>
 </question>
+<question text="">
+<p>Ярослав та Святополк провели</p>
+<answer>1 битву</answer>
+<answer>2 битви</answer>
+<answer correct>3 битви</answer>
+<answer>Не зустрічалися на полі бою</answer>
+</question>
 </quiz>
