@@ -206,4 +206,11 @@
 <answer correct>Херсонес</answer>
 <answer>Царгород</answer>
 </question>
+<question text="">
+<p>Для утримання церкви на Русі було запроваджено</p>
+<answer>сторицю</answer>
+<answer>оброк</answer>
+<answer correct>десятину</answer>
+<answer>«податок Володимира»</answer>
+</question>
 </quiz>
