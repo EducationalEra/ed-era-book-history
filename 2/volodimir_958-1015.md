@@ -176,4 +176,12 @@
 <answer>продовжилися військові дії на території Візантії</answer>
 <answer correct>відбулося хрещення Русі</answer>
 </question>
+<question text="">
+<p>Володимир помер:</p>
+<answer>1012</answer>
+<answer>1013</answer>
+<answer>1014</answer>
+<answer correct>1015</answer>
+<answer>1016</answer>
+</question>
 </quiz>
