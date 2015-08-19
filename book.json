@@ -30,8 +30,7 @@
         "links": {
             "gitbook": false,
             "sidebar": {
-              "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books/",
-              "Історія України: зародження української нації": "https://www.ed-era.com/books/history"
+              "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books/"
             },
             "sharing": {
                 "vk":true
