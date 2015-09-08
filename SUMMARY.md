@@ -1,7 +1,7 @@
 # Summary
 
-* [Зміст](README.md)
-* [Вступне слово](vstup.md)
+[Зміст](README.md)
+[Вступне слово](vstup.md)
 1. [Поява та поселення людей на території України](1/poyava_ta_poselennya_lyudei_na_teritor_ukrani.md)
    * [Паростки цивілізації](1/parostki_tsivlzats.md)
    * [Кіммерійці](1/kimmerits.md)
