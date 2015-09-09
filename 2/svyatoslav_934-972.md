@@ -103,9 +103,8 @@
 </div>
 <div class="popup">
 </div>
-<div class="space">
-</div>
 
+<p></p>
 
 <div align="center">
 <img src="bol_2_new.jpg" width="550">
