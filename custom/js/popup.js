@@ -1,4 +1,4 @@
-$("div.fluidMedia").click(function(){
+$("div.fluidMedia").hover(function(){
     console.log('1111111');
 });
 
