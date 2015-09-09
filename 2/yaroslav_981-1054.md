@@ -74,9 +74,8 @@
 </div>
 <div class="popup">
 </div>
-<div class="space">
-</div>
 
+<p></p>
 
 <div align="center">
 <img src="9r_mista.jpg" width="500"/>
