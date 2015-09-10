@@ -5,12 +5,13 @@
         "addcssjs",
         "modal-youtube-video",
         "quiz",
-        "gtm"
+        "gtm",
+        "ga"
     ],
     "pluginsConfig": {
         "addcssjs": {
             "css": ["custom/css/style.css"],
-            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/popup.js",  "custom/js/custom.js", "vendor/js/jquery/jquery.remodal.js", "custom/js/analytics.js"]
+            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/popup.js",  "custom/js/custom.js", "vendor/js/jquery/jquery.remodal.js"]
         },
         "disqus": {
             "shortName": "Ukraine"
@@ -30,6 +31,9 @@
         },
         "gtm": {
             "token": "GTM-N86M5F"
+        },
+        "ga": {
+            "token": "UA-67450509-4"
         }
     },
     "variables": {
