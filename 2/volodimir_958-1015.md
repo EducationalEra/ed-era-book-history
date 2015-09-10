@@ -177,11 +177,11 @@
 <answer correct>відбулося хрещення Русі</answer>
 </question>
 <question text="">
-<p>Володимир помер:</p>
-<answer>1012</answer>
-<answer>1013</answer>
-<answer>1014</answer>
-<answer correct>1015</answer>
-<answer>1016</answer>
+<p>Володимир помер у:</p>
+<answer>1012 році</answer>
+<answer>1013 році</answer>
+<answer>1014 році</answer>
+<answer correct>1015 році</answer>
+<answer>1016 році</answer>
 </question>
 </quiz>
