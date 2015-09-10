@@ -37,7 +37,7 @@
         }
     },
     "variables": {
-      "basePath": "http://math.ed-era.com"
+      "basePath": "http://history.ed-era.com"
     },
     "links": {
         "gitbook": false,
