@@ -62,6 +62,19 @@ VII ст. заволодівши Балканами та тримаючи у с�
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question multiple>
+<p>Які слов’янські племена були безпосередніми пращурами українців</p>
+    <answer>Словени</answer>
+    <answer correct>Древляни</answer>
+    <answer correct>Волиняни</answer>
+    <answer>Кривичі </answer>
+    <answer>Поляни</answer>
+    <answer correct>Уличі</answer>
+    <answer>В’ятичі</answer>
+    <answer>Дреговичі</answer>
+    <answer correct>Тиверці</answer>
+</question>
+
 <question text="">
         <p>Скільки гілок слов’янства вам відомо?</p>
         <answer>2</answer>
