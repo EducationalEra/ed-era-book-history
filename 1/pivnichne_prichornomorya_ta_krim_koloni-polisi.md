@@ -59,6 +59,13 @@
 </div>
 
 <quiz>
+  <question text="">
+    <p>Перший грецький поліс у Причорномор’ї </p>
+    <answer correct>Борисфеніда</answer>
+    <answer>Ольвія</answer>
+    <answer>Херсонес</answer>
+    <answer>Пантікапей</answer>
+  </question>
 <question multiple>
     <p>Для поліса характерні (виберіть усі правильні варіанти):</p>
     <answer correct>рабовласницький устрій</answer>
