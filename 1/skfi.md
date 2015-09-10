@@ -48,3 +48,16 @@
 кургани, де хоронили багатих скіфів з їх особистими речами. Знахідки
 вказують на те, що скіфи були видатними ювелірами. У мистецтві мали
 особливий “звіриний стиль”.
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+  <question text="">
+    <p>Велика Скіфія існувала у</p>
+    <answer correct>VII-III ст. до н.е.</answer>
+    <answer>VII ст. до н.е. - III ст. н.е.</answer>
+    <answer>III ст. до н.е. - III ст. н.е.</answer>
+    <answer>VIII-IV ст. до н.е.</answer>
+    <explanation>
+    Велика Скіфія існувала з VII ст. до н.е. по III ст. до н.е., у той час як Мала Скіфія була заснована у ІІІ ст. до н.е. і розчинилася у інших державних утвореннях прадавнього Криму у ІІІ ст. н.е.
+    </explanation>
+  </question>
+</quiz>
