@@ -61,7 +61,7 @@ VII ст. заволодівши Балканами та тримаючи у с�
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="">
+    <question text="">
         <p>Скільки гілок слов’янства вам відомо?</p>
         <answer>2</answer>
         <answer correct>3</answer>
