@@ -35,11 +35,21 @@
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="">
-<p>Кількість засновників Києва</p>
-<answer>1</answer>
-<answer>2</answer>
-<answer>3</answer>
-<answer correct>4</answer>
-</question>
+    <question text="">
+        <p>Кількість засновників Києва</p>
+        <answer>1</answer>
+        <answer>2</answer>
+        <answer>3</answer>
+        <answer correct>4</answer>
+    </question>
+    <question>
+        <p>Київ був названий на честь</p>
+        <answer correct>старшого брата</answer>
+        <answer>середнього брата</answer>
+        <answer>молодшого брата</answer>
+        <answer>сестри</answer>
+        <explanation>
+        За тогочасним патріархальним ладом суспільства головою роду був найстарший чоловік. І саме з ним пов’язували усі здобутки та досягнення роду. Тому лише старший брат цього сімейства (Кий, Щек, Хорив та Либідь) міг дати своє ім’я місту на Дніпровських пагорбах.
+        </explanation>
+    </question>
 </quiz>
