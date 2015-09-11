@@ -198,11 +198,27 @@
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="">
-<p>Князь Святослав загинув</p>
-<answer>970 року</answer>
-<answer>971 року</answer>
-<answer correct>972 року</answer>
-<answer>974 року</answer>
-</question>
+    <question>
+        <p>Основа зовнішньої політики Святослава Ігоровича –</p>
+        <answer correct>загарбницькі походи<answer>
+        <answer>чисельні політичні союзи, міжнародні договори та торгівельні зв’язки з іншими державами, тобто, лише політичні інструменти<answer>
+        <answer>стримання агресивних сусідів. Жодних загарбань, проте активне посилення кордонів та оборонної міці Русі.<answer>
+        <answer>політичні шлюби своїх дітей та нащадків видатних європейських володарів<answer>
+        <explanation>Якщо ви обрали варіант з політичними шлюбами, вітаю, ви непогано орієнтуєтеся в історії України. Проте, разом з тим, трохи забігаєте наперед, адже цей факт стосується Ярослава Мудрого, про якого мова піде далі.
+        </explanation>
+    </question>
+    <question>
+        <p>Візуально Святослав був подібний до</p>
+        <answer>половецького хана<answer>
+        <answer correct>запорізького козака<answer>
+        <answer>середньовічного лицаря<answer>
+        <answer>розбійника<answer>
+    </question>
+    <question>
+        <p>Князь Святослав загинув</p>
+        <answer>970 року</answer>
+        <answer>971 року</answer>
+        <answer correct>972 року</answer>
+        <answer>974 року</answer>
+    </question>
 </quiz>
