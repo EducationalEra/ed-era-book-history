@@ -209,10 +209,10 @@
     </question>
     <question>
         <p>Візуально Святослав був подібний до</p>
-        <answer>половецького хана<answer>
-        <answer correct>запорізького козака<answer>
-        <answer>середньовічного лицаря<answer>
-        <answer>розбійника<answer>
+        <answer>половецького хана</answer>
+        <answer correct>запорізького козака</answer>
+        <answer>середньовічного лицаря</answer>
+        <answer>розбійника</answer>
     </question>
     <question>
         <p>Князь Святослав загинув</p>
