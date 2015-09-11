@@ -169,13 +169,20 @@
 
 
 <quiz>
-<question multiple>
-<p>Внаслідок Корсунської війни 988 року:</p>
-<answer correct>Володимир одружився із сестрою візантійського імператора</answer>
-<answer>до Русі відійшов південь Кримського півострову</answer>
-<answer>продовжилися військові дії на території Візантії</answer>
-<answer correct>відбулося хрещення Русі</answer>
-</question>
+    <question multiple>
+        <p>Внаслідок Корсунської війни 988 року:</p>
+        <answer correct>Володимир одружився із сестрою візантійського імператора</answer>
+        <answer>до Русі відійшов південь Кримського півострову</answer>
+        <answer>продовжилися військові дії на території Візантії</answer>
+        <answer correct>відбулося хрещення Русі</answer>
+    </question>
+    <question>
+        <p>Володимир охрестився у </p>
+        <answer correct>988 році</answer>
+        <answer>990 році</answer>
+        <answer>1012 році</answer>
+        <answer>1015 році</answer>
+    </question>
 <question text="">
 <p>Володимир помер у:</p>
 <answer>1012 році</answer>
