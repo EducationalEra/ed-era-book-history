@@ -169,6 +169,13 @@
 
 
 <quiz>
+    <question>
+        <p>Володимир охрестився у </p>
+        <answer correct>988 році</answer>
+        <answer>990 році</answer>
+        <answer>1012 році</answer>
+        <answer>1015 році</answer>
+    </question>
     <question multiple>
         <p>Внаслідок Корсунської війни 988 року:</p>
         <answer correct>Володимир одружився із сестрою візантійського імператора</answer>
@@ -177,18 +184,18 @@
         <answer correct>відбулося хрещення Русі</answer>
     </question>
     <question>
-        <p>Володимир охрестився у </p>
-        <answer correct>988 році</answer>
-        <answer>990 році</answer>
-        <answer>1012 році</answer>
-        <answer>1015 році</answer>
+        <p>Назвіть кількість основних реформ Володимира</p>
+        <answer>1</answer>
+        <answer>2</answer>
+        <answer correct>3</answer>
+        <answer>4</answer>
     </question>
-<question text="">
-<p>Володимир помер у:</p>
-<answer>1012 році</answer>
-<answer>1013 році</answer>
-<answer>1014 році</answer>
-<answer correct>1015 році</answer>
-<answer>1016 році</answer>
-</question>
+    <question>
+        <p>Володимир помер у:</p>
+        <answer>1012 році</answer>
+        <answer>1013 році</answer>
+        <answer>1014 році</answer>
+        <answer correct>1015 році</answer>
+        <answer>1016 році</answer>
+    </question>
 </quiz>
