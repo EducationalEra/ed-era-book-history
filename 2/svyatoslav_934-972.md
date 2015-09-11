@@ -198,7 +198,7 @@
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question>
+    <question text="">
         <p>Основа зовнішньої політики Святослава Ігоровича –</p>
         <answer correct>загарбницькі походи<answer>
         <answer>чисельні політичні союзи, міжнародні договори та торгівельні зв’язки з іншими державами, тобто, лише політичні інструменти<answer>
