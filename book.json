@@ -6,7 +6,8 @@
         "modal-youtube-video",
         "quiz",
         "gtm",
-        "ga"
+        "ga",
+        "disqus"
     ],
     "pluginsConfig": {
         "addcssjs": {
