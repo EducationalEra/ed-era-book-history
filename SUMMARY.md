@@ -1,19 +1,15 @@
 # Summary
 
 * [Зміст](README.md)
-1. [Вступне слово](vstup.md)
+* [Вступне слово](vstup.md)
 * [Поява та поселення людей на території України](1/poyava_ta_poselennya_lyudei_na_teritor_ukrani.md)
-   1. [Паростки цивілізації](1/parostki_tsivlzats.md)
+   * [Паростки цивілізації](1/parostki_tsivlzats.md)
    * [Кіммерійці](1/kimmerits.md)
    * [Скіфи](1/skfi.md)
    * [Сармати](1/sarmati.md)
    * [Пiвнiчне Причорномор’я та Крим (колонiї-полiси)](1/pivnichne_prichornomorya_ta_krim_koloni-polisi.md)
    * [Прадавні слов’яни](1/pradavn_slovyani.md)
 * [Утворення Київської Русi](2/utvorennya_kivsko_rusi.md)
-   * [Вступ](2/utvorennya_kivsko_rusi.md)
-       * [Заснування Києва](2/zasnuvannya_kiva.md)
-       * [Першi правителi](2/pershi_praviteli.md)
-       * [Аскольд та Дiр](2/askold_ta_dir.md)
    * [Олег (845-912)](2/oleg_845-912.md)
    * [Iгор (бл. 879—945)](2/igor_bl_879945.md)
    * [Ольга (бл. 890-969)](2/olga_bl_890-969.md)
@@ -24,6 +20,7 @@
    * [Ярослав (981-1054)](2/yaroslav_981-1054.md)
    * Мiждержавнi угоди
    * Прийняття християнства
+       * 2/priinyattya_hristiyanstva.md
 * Ярославичi та роздробленiсть. Володимир Мономах
    * Триумвірат
        * Битва на Альті. Київське повстання
