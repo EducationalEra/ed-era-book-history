@@ -5,7 +5,8 @@
 структурувати правителів Києва у період 1054-1132 років простіше
 таблицею:
 
-<table align="center">
+<div align="center">
+<table>
 <thead>
 <tr>
 <th>Роки правління</th>
@@ -55,6 +56,7 @@
 </tr>
 </tbody>
 </table>
+</div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e2hKJM53iPQ" frameborder="0" allowfullscreen></iframe>
