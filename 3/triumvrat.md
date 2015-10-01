@@ -11,7 +11,7 @@
 ![Легеда](1.png)
 
 <div align="center">
-<img src="main.png" width="450" />
+<img src="main.png" width="600" />
 </div>
 
 Саме так і почався період «тріумвірату Ярославовичів», адже Ізяслав
