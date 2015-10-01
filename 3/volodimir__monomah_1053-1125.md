@@ -1,6 +1,13 @@
 Володимир II Мономах (1053-1125)
 ================================
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/FyA-zxIVVEY" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 Славу та могутність Володимир Мономах отримав ще до входження на
 київський престол, будучи князем переяславським. Його князювання стало
 «лебединою піснею» Русі, адже держава на короткий час наблизилася, хоча
