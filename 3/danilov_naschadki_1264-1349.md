@@ -22,6 +22,11 @@
 Столицю князівства переніс до «свого» міста – до Львова. Наступником
 Лева став його син Юрій.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/SMGMSEMK5rg" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 ### Юрiй I Львович (1252-1308)
 
