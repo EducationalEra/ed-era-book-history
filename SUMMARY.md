@@ -25,6 +25,7 @@
        * [Мстислав Великий (1076-1132)](3/mstislav_velikii_1076-1132.md)
    * [Роздробленість](3/rozdroblenst.md)
    * [Генеалогічне дерево](3/genealogchne_derevo.md)
+   * Триумвірат
 * [Галицько-Волинська держава](3/vstup.md)
    * [Галицьке князівство](3/galitske_knyazvstvo.md)
        * [Ярослав Володимирович Осмомисл (бл. 1130-1187)](3/yaroslav_volodimirovich_osmomisl_1130-1187.md)
@@ -36,7 +37,6 @@
        * [Данилові нащадки (1264-1349)](3/danilov_naschadki_1264-1349.md)
    * [Підсумок](3/pidsumok.md)
 * [Монголо-татарська навала](6/vstup.md)
-   * [Вступ](6/vstup.md)
    * [Монгольська імперія](6/mongolska_mperya.md)
    * [Золота орда](6/zolota_orda.md)
        * [Битва на Калці](6/bitva_na_kalts.md)
