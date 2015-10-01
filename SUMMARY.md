@@ -35,7 +35,7 @@
        * [Данило Галицький (1201-1264)](3/danilo_galitskii_1201-1264.md)
        * [Данилові нащадки (1264-1349)](3/danilov_naschadki_1264-1349.md)
    * [Підсумок](3/pidsumok.md)
-* Монголо-татарська навала
+* [Монголо-татарська навала](6/mongolo-tatarska_navala.md)
    * [Вступ](6/vstup.md)
    * [Монгольська імперія](6/mongolska_mperya.md)
    * [Золота орда](6/zolota_orda.md)
