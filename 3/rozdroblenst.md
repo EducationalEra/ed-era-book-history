@@ -5,8 +5,7 @@
 структурувати правителів Києва у період 1054-1132 років простіше
 таблицею:
 
-<div align="center">
-<table>
+<table ailgn="center">
 <thead>
 <tr>
 <th>Роки правління</th>
@@ -56,7 +55,6 @@
 </tr>
 </tbody>
 </table>
-</div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e2hKJM53iPQ" frameborder="0" allowfullscreen></iframe>
@@ -172,7 +170,7 @@
 князівств. Через сто років їх стало більш ніж півсотні.
 
 <div align="center">
-<img src="asd1.png" width="650" />
+<img src="asd1.png" width="600" />
 </div>
 
 
