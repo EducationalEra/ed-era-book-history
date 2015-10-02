@@ -41,7 +41,7 @@
        * [Битва на Калці](6/bitva_na_kalts.md)
    * [Монголо-татарське іго](6/mongolo-tatarske_go.md)
    * [Висновки](6/visnovki.md)
-* [Господарське життя Русi. Верстви населення. "Руська правда"](7/111gospodarske_zhittya_rusi_verstvi_naselennya_ruska_pravda.md)
+* [Господарське життя Русi. Верстви населення. "Руська правда"](7/poltichnii_ustri.md)
    * [Політичний устрій](7/poltichnii_ustri.md)
    * [Суспільство Русі](7/suspilstvo_rus.md)
    * ["Руська правда"](7/ruska_pravda.md)
