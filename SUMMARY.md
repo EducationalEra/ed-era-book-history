@@ -26,7 +26,7 @@
    * [Роздробленість](3/rozdroblenst.md)
    * [Генеалогічне дерево](3/genealogchne_derevo.md)
    * [Тріумвірат](3/trumvrat.md)
-       * Битва на Альті. Київське повстання
+       * [Битва на Альті. Київське повстання](3/bitva_na_alti_kivske_povstannya.md)
 * [Галицько-Волинська держава](3/vstup.md)
    * [Галицьке князівство](3/galitske_knyazvstvo.md)
        * [Ярослав Володимирович Осмомисл (бл. 1130-1187)](3/yaroslav_volodimirovich_osmomisl_1130-1187.md)
