@@ -21,12 +21,11 @@
    * [Мiждержавнi угоди](2/mizhderzhavni_ugodi.md)
    * [Прийняття християнства](2/priinyattya_hristiyanstva.md)
 * [Ярославичi та роздробленiсть. Володимир Мономах](3/triumvrat.md)
-   * [Триумвірат](3/triumvrat.md)
-       * Битва на Альті. Київське повстання
    * [Володимир ІІ Мономах (1053-1125)](3/volodimir__monomah_1053-1125.md)
        * [Мстислав Великий (1076-1132)](3/mstislav_velikii_1076-1132.md)
    * [Роздробленість](3/rozdroblenst.md)
    * [Генеалогічне дерево](3/genealogchne_derevo.md)
+   * Тріумвірат
 * [Галицько-Волинська держава](3/vstup.md)
    * [Галицьке князівство](3/galitske_knyazvstvo.md)
        * [Ярослав Володимирович Осмомисл (бл. 1130-1187)](3/yaroslav_volodimirovich_osmomisl_1130-1187.md)
