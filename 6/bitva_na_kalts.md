@@ -78,3 +78,21 @@
 
 
 [^2]: точна ідентифікація цієї річки – предмет масштабної історичної дискусії
+
+<quiz>
+<question>
+	<p>Битва на Калці відбулася у</p>
+        <answer>1240 році</answer>
+	<answer>1230 році</answer>
+        <answer>1234 році</answer>
+	<answer correct>1223 році</answer>
+</question>
+
+<question>
+	<p>Осадою Києва у 1240 році керував</p>
+        <answer>Тохтамиш</answer>
+	<answer correct>Батий</answer>
+        <answer>Темуджин</answer>
+	<answer>Єсугей</answer>
+</question>
+</quiz>
