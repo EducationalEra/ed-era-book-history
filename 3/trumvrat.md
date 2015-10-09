@@ -57,3 +57,24 @@
 
 [^1]: незвичайна в’язниця на Русі. Складалася із свіжозрубаних дерев, які, ніби частокіл, оточували ув’язненого; не мала вікон та дверей.
 
+
+<quiz> 
+<question multiple>
+    <p>До складу триумвірату входили:</p>
+    <answer correct>Ізяслав</answer>
+    <answer>Всеслав</answer>
+    <answer correct>Святослав</answer>
+    <answer>Святополк ІІ</answer>
+    <answer>Брячислав</answer>
+    <answer correct>Всеволод</answer>
+</question>
+
+
+<question>
+	<p>Уперше Мінськ згадується у</p>
+           <answer>1060 році</answer>
+           <answer correct>1067 році</answer>
+           <answer>1167 році</answer>
+           <answer>1090 році</answer>
+</question>
+</quiz> 
