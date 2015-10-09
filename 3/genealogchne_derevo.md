@@ -6,3 +6,15 @@
 усіх нащадків – складніше.
 
 ![image](derevo.png)
+
+<quiz>
+<question>
+	<p>У якій із даних гілок Ярославовичів усі представники були київськими князями? Нумерація від 1 до 6 зліва направо</p>
+        <answer>1</answer>
+	<answer>2</answer>
+        <answer correct>3</answer>
+        <answer>4</answer>
+ 	<answer>5</answer> 
+	<answer>6</answer>
+</question>
+</quiz>
