@@ -88,3 +88,21 @@
 [^5]: у російській науці має назву Малоруської
 
 [^6]: перше українське місто, що отримало Магдебурзьке право
+
+<quiz>
+<question>
+	<p>Найбільшу територію Галицько-Волинська держава мала за правління</p>
+        <answer>Юрiя II Болеслава</answer>
+	<answer>Юрiя I </answer>
+        <answer>короля Данила</answer>
+	<answer correct>Лева I</answer>
+</question>
+
+<question>
+	<p>Галицька митрополія була заснована за</p>
+        <answer>Юрiя II Болеслава</answer>
+	<answer correct>Юрiя I </answer>
+        <answer>короля Данила</answer>
+	<answer>Лева I</answer>
+</question>
+</quiz>
