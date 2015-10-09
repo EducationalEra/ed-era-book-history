@@ -52,3 +52,21 @@
 ![image](konspect2.png)
 
 [^1]: Курултай – у тюркських народів – всенародний з’їзд, який відіграє роль законодавчого органу.
+
+<quiz>
+<question>
+	<p>Ядром Монгольської імперії були</p>
+        <answer>татари</answer>
+	<answer correct>монголи</answer>
+        <answer>монголо-татари</answer>
+	<answer>буряти</answer>
+</question>
+
+<question>
+	<p>Монгольську імперію заснував</p>
+        <answer>Єсугей</answer>
+	<answer correct>Темуджин</answer>
+        <answer>Батий</answer>
+	<answer>Тохтамиш</answer>
+</question>
+</quiz>
