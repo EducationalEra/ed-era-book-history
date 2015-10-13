@@ -7,7 +7,7 @@
         "quiz",
         "gtm",
         "ga",
-        "anchor-navigation"
+        "anchor-navigation",
         "disqus"
     ],
     "pluginsConfig": {
