@@ -77,11 +77,13 @@ VII ст. заволодівши Балканами та тримаючи у с�
         <answer correct>Древляни</answer>
         <answer correct>Волиняни</answer>
         <answer>Кривичі </answer>
-        <answer>Поляни</answer>
+        <answer correct>Поляни</answer>
         <answer correct>Уличі</answer>
         <answer>В’ятичі</answer>
+        <answer correct>Сіверяни</answer>
         <answer>Дреговичі</answer>
         <answer correct>Тиверці</answer>
+        <answer correct>Хорвати</answer>
     </question>
     <question text="">
         <p>Основою державності прадавніх слов’ян були:</p>
