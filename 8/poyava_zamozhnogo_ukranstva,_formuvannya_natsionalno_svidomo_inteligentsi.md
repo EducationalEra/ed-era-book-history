@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td></td>
-<td align="center">$$0^{\circ}$$</td>
+<td align="center" width="75px" height="60px">$$0^{\circ}$$</td>
 <td align="center">$$30^{\circ}$$</td>
 <td align="center">$$45^{\circ}$$</td>
 <td align="center">$$60^{\circ}$$</td>
@@ -38,8 +38,8 @@
 
 <table>
 <tr>
-<td></th>
-<td align="center">$$0^{\circ}$$</td>
+<td ></th>
+<td align="center" width="75px" height="60px">$$0^{\circ}$$</td>
 <td align="center">$$30^{\circ}$$</td>
 <td align="center">$$45^{\circ}$$</td>
 <td align="center">$$60^{\circ}$$</td>
@@ -75,7 +75,7 @@
 <table>
 <tr>
 <td></th>
-<td align="center">$$0^{\circ}$$</td>
+<td align="center" width="75px" height="60px">$$0^{\circ}$$</td>
 <td align="center">$$30^{\circ}$$</td>
 <td align="center">$$45^{\circ}$$</td>
 <td align="center">$$60^{\circ}$$</td>
@@ -110,7 +110,7 @@
 <table>
 <tr>
 <td></th>
-<td align="center">$$0^{\circ}$$</td>
+<td align="center" width="75px" height="60px">$$0^{\circ}$$</td>
 <td align="center">$$30^{\circ}$$</td>
 <td align="center">$$45^{\circ}$$</td>
 <td align="center">$$60^{\circ}$$</td>
