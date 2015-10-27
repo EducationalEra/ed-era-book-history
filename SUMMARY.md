@@ -21,8 +21,6 @@
    * [Мiждержавнi угоди](2/mizhderzhavni_ugodi.md)
    * [Прийняття християнства](2/priinyattya_hristiyanstva.md)
 * [Ярославичi та роздробленiсть. Володимир Мономах](3/trumvrat.md)
-   * [Тріумвірат](3/trumvrat.md)
-       * [Битва на Альті. Київське повстання](3/bitva_na_alti_kivske_povstannya.md)
    * [Володимир ІІ Мономах (1053-1125)](3/volodimir__monomah_1053-1125.md)
        * [Мстислав Великий (1076-1132)](3/mstislav_velikii_1076-1132.md)
    * [Роздробленість](3/rozdroblenst.md)
@@ -60,5 +58,5 @@
    * Соцiальнi прошарки Речi
    * Поява козацтва
    * "Золота доба"
-   * Поява заможного українства, формування нацiонально свiдомої iнтелiгенцiї
+   * [Поява заможного українства, формування нацiонально свiдомої iнтелiгенцiї](8/poyava_zamozhnogo_ukranstva,_formuvannya_natsionalno_svidomo_inteligentsi.md)
 
