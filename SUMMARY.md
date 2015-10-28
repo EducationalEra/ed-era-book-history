@@ -58,5 +58,4 @@
    * Соцiальнi прошарки Речi
    * Поява козацтва
    * "Золота доба"
-   * [Поява заможного українства, формування нацiонально свiдомої iнтелiгенцiї](8/poyava_zamozhnogo_ukranstva,_formuvannya_natsionalno_svidomo_inteligentsi.md)
 
