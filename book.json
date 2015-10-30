@@ -1,18 +1,17 @@
 {
     
     "plugins": [
-        "mathjax4us",
+        "mathjax",
         "addcssjs",
         "modal-youtube-video",
         "quiz",
         "gtm",
-        "ga",
-        "anchor-navigation"
+        "ga"
     ],
     "pluginsConfig": {
         "addcssjs": {
             "css": ["custom/css/style.css"],
-            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/popup.js",  "custom/js/custom.js", "vendor/js/jquery/jquery.remodal.js"]
+            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/popup.js",  "custom/js/custom.js", "vendor/js/jquery/jquery.remodal.js", "vendor/js/underscore/underscore.js"]
         },
         "quiz": {
             "labels": {
