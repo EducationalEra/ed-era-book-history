@@ -10,6 +10,9 @@
         "-search"
     ],
     "pluginsConfig": {
+        "disqus": {
+            "shortName": "ederabooks"
+        },
         "sharing": {
             "facebook": true,
             "twitter": true,
