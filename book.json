@@ -7,8 +7,7 @@
         "gtm",
         "ga",
         "disqus",
-        "-search",
-        "insert-md"
+        "-search"
     ],
     "pluginsConfig": {
         "disqus": {
