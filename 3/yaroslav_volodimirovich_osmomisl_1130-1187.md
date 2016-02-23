@@ -14,8 +14,7 @@
 ![image](leg1.png)
 
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/v24V5kEOIug" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/v24V5kEOIug" frameborder="0" allowfullscreen></iframe></div>
 <div class="popup">
 </div>
 <br>
