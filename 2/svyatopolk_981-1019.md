@@ -70,6 +70,7 @@
 <div class="space">
 </div>
 
+<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <answer>Борис, Гліб, Святослав, Мстислав</answer>
