@@ -23,7 +23,7 @@
 </div>
 <div class="space">
 </div>
-
+<p></p>
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
   <question text="">
     <p>Виберіть варіант у якому кочові народи розташовано у порядку їх появи на території України:</p>
