@@ -48,7 +48,7 @@
    * [Суспільство Русі](7/suspilstvo_rus.md)
    * ["Руська правда"](7/ruska_pravda.md)
    * [Господарське життя та економіка Русі](7/gospodarske_zhittya_ta_ekonomka_rus.md)
-* Між Руссю та Річчю
+* [Між Руссю та Річчю](mizh_russyu_ta_richchyu.md)
    * Експансія Великого Князівства Литовського на руські землі
    * [Українські землі у складі ВКЛ та Польського королівства (друга половина ХІV – ХV ст.)](ukranski_zemli_u_skladi_vkl_ta_polskogo_korolivstva.md)
    * Кревська унiя
