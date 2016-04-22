@@ -58,7 +58,7 @@
        * [Діяльність Вітовта на українських землях. Захоплення Польщею Західного Поділля](dyalnst_vitovta_na_ukranskih_zemlyah_zahoplennya_podillya.md)
        * [Правління Свидригайла. «Велике князівство Руське»](pravlinnya_svidrigaila_velike_knyazivstvo_ruske.md)
        * [Казимир IV Ягайлович. Відновлення й остаточна ліквідація Київського та Волинського удільних князівств](kazimir_iv_yagailovich_vidnovlennya_i_likvidacia_knyazivstv.md)
-       * Висновки
+       * [Висновки](visnovki.md)
    * Утворення Кримського ханства
    * Османська імперія
 * Суспiльно-полiтичнi процеси першої половини XVII століття
