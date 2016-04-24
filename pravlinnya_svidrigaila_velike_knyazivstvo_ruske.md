@@ -20,7 +20,7 @@
         <answer>1429 р.</answer>
 	<answer correct>1430 р.</answer>
         <answer>1431 р.</answer>
-	<answer>1435 р./answer>
+	<answer>1435 р.</answer>
 </question>
 
 <question>
