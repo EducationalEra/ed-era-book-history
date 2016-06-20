@@ -58,7 +58,13 @@
      6.  [Правління Свидригайла. «Велике князівство Руське»](pravlinnya_svidrigaila_velike_knyazivstvo_ruske.md)
      7.  [Казимир IV Ягайлович. Відновлення й остаточна ліквідація Київського та Волинського удільних князівств](kazimir_iv_yagailovich_vidnovlennya_i_likvidacia_knyazivstv.md)
      8.  [Висновки](visnovki.md)
-   * Становище українських земель у складі Угорщини, Молдови та Московії. Князівство Феодоро та утворення Кримського ханства 
+   * [Становище українських земель у складі Угорщини, Молдови та Московії. Князівство Феодоро та утворення Кримського ханства](8/stanovуsche_ukrayynskуkh_zemel_u_sklady_ugorschуnу_moldovу_ta_moskovuyu_knyazyvstvo_feodoro_ta_utvorennya_krуmskogo_khanstva.md)
+      1. [Посилення Московської держави та входження Чернігово-Сіверщини до її складу](8/posуlennya_moskovsoy_derzhavу_ta_vkhodzhennya_chernygovo_syverschуnу_do_skladu.md)
+      2. [Закарпаття під владою Угорщини](8/zakarpattya_pyd_vladoyu_ugorschуnу.md)
+      3. [Буковина у складі Молдавського князівства](8/bukovуna_v_sklady_moldavskogo_knyazyvstva.md)
+      4. [Князівство Феодоро](8/knyazyvstvo_feodoro.md)
+      5. [Утворення Кримського ханства](8/utvorennya_krуmskogo_khanstva.md)
+      6. [Висновки](8/vysnovky.md)
    * Господарське, суспільне та культурне життя на українських землях (друга половина ХІV – ХV ст.)
 * Суспiльно-полiтичнi процеси першої половини XVI століття
    1. Рiч Посполита
