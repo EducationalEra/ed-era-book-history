@@ -3,8 +3,8 @@
 У розділі розглядаються процеси входження українських земель до складу Угорщини, Молдови та Московії, а також їхнє становище опісля приєднання. Окрім цього, розглядається становище князівства Феодоро разом із історією утворення та особливостями життя в Кримському ханстві. 
 
 Для доступного викладу теоретичної інформації, навчальний матеріал подається за наступним планом:<br>
-1. [Посилення Московської держави та входження Чернігово-Сіверщини до її складу](http://history.ed-era.com/posуlennya_moskovsoy_derzhavу_ta_vkhodzhennya_chernygovo_syverschуnу_do_skladu.html)
-2. [Закарпаття під владою Угорщини](http://history.ed-era.com/zakarpattya_pyd_vladoyu_ugorschуnу.html)
-3. [Буковина у складі Молдавського князівства](http://history.ed-era.com/bukovуna_v_sklady_moldavskogo_knyazyvstva.html)
-4. [Князівство Феодоро](http://history.ed-era.com/knyazyvstvo_feodoro.html)
-5. [Утворення Кримського ханства](http://history.ed-era.com/utvorennya_krуmskogo_khanstva.html)
+1. [Посилення Московської держави та входження Чернігово-Сіверщини до її складу](http://history.ed-era.com/8/posуlennya_moskovsoy_derzhavу_ta_vkhodzhennya_chernygovo_syverschуnу_do_skladu.html)
+2. [Закарпаття під владою Угорщини](http://history.ed-era.com/8/zakarpattya_pyd_vladoyu_ugorschуnу.html)
+3. [Буковина у складі Молдавського князівства](http://history.ed-era.com/8/bukovуna_v_sklady_moldavskogo_knyazyvstva.html)
+4. [Князівство Феодоро](http://history.ed-era.com/8/knyazyvstvo_feodoro.html)
+5. [Утворення Кримського ханства](http://history.ed-era.com/8/utvorennya_krуmskogo_khanstva.html)
