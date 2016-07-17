@@ -66,6 +66,18 @@
        * [Князівство Феодоро](8/knyazyvstvo_feodoro.md)
        * [Утворення Кримського ханства](8/utvorennya_krуmskogo_khanstva.md)
        * [Висновки](8/vysnovky.md)
+   * [Господарське, суспільне та культурне життя на українських землях (друга половина ХІV – ХV ст.)](8/gospodarske_suspylne_ta_kulturne_zhyttua_na_ukraynskyx_zemlyach.md)
+       * [Соціальна структура суспільства](8/socyalna_structura_suspylctva.md)
+          * [Шляхта](8/shlyachta.md)
+          * [Духовенство. Релігійна ситуація на українських землях](8/duchovenstvo_relygyuna_sytuacya_na_ukraynskych_zemlyach.md)  
+       * [Сільське господарство та становище селянства](8/sylske_gospodarstvo_ta_stanovyche_selyanstva.md)
+       * [Міське населення, розвиток ремесла і торгівлі](8/myske_naselennya_rozvytok_remesla_ta_torgyvly.md)
+       * [Особливості розвитку культури](8/osoblyvosty_rozvytku_kultury.md)
+          * [Освіта](8/osvyta.md)
+          * [Література та книгодрукування. Фольклор](8/lyteratura_ta_knygodrukuvannya_folklor.md)
+          * [Архітектура і містобудування](8/arhytectura_ta_mystobuduvannya.md)
+          * [Образотворче мистецтво](8/obrazotvorche_mystezctvo.md)
+       * [Висновки](8/vysnovku.md)
 * Суспiльно-полiтичнi процеси першої половини XVII століття
    * Рiч Посполита
    * Люблiнська та Берестейська унiї
@@ -74,4 +86,3 @@
    * Поява козацтва
    * "Золота доба"
    * Поява заможного українства, формування нацiонально свiдомої iнтелiгенцiї
-
