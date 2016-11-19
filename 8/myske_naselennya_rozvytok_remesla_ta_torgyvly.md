@@ -1,4 +1,4 @@
-# Міське населення, розвиток ремесла і торгівлі
+# Міське населення, розвиток ремесла і торгівлі в другій половині ХІV – ХV ст.
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/QIaF7b8mglU" frameborder="0" allowfullscreen></iframe>

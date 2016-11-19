@@ -1,4 +1,4 @@
-# Соцiальнi прошарки Речi Посполитої
+# Соцiальнi прошарки Речi Посполитої в XVI столітті
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/csOJFOb_Pas" frameborder="0" allowfullscreen></iframe>

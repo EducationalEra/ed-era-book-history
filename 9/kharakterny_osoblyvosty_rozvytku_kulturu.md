@@ -1,4 +1,4 @@
-# Особливості розвитку культури в XVI ст.
+# Культура в XVI ст.
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/N0mAEakweeU" frameborder="0" allowfullscreen></iframe>
