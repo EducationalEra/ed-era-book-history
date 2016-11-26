@@ -1,4 +1,4 @@
-# Люблінська унія. Утворення Речі Посполитої
+# Люблінська унія (1569 р.). Утворення Речі Посполитої
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/JgIAx_apLRU" frameborder="0" allowfullscreen></iframe>

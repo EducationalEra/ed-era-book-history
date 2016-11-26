@@ -1,4 +1,4 @@
-# Берестейська унія. Греко-католицька церква
+# Берестейська унія (1596 р.). Греко-католицька церква
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/gEuB5ys0OjQ" frameborder="0" allowfullscreen></iframe>
