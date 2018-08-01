@@ -1,7 +1,6 @@
 # Summary
 
 * [Зміст](README.md)
-* [Вступне слово](vstup.md)
 * [Поява та розселення людей на території України](1/poyava_ta_poselennya_lyudei_na_teritor_ukrani.md)
    * [Періодизація Стародавньої історії України](1/peryodyzacyua_starodavnoyu_storyu_ukrauny.md)
        * [Кам'яний вік](1/kamyanyu_vyk.md)
@@ -101,8 +100,4 @@
    * [Полемічна література](9/polemychna_lyteratura.md)
    * [Соцiальнi прошарки Речi Посполитої](9/socyalny_prosharky_Rechy_Pospolytoy.md)
    * [Особливості розвитку культури в XVI ст.](9/kharakterny_osoblyvosty_rozvytku_kulturu.md)
-       * [Становлення і розвиток української мови. Література та книгодрукування](9/stanovlenya_ta_rozvytok_ukraynskoy_movy_lyteratura_ta_knygodrukuvanya.md)
-       * [Розвиток освіти та шкільництва](9/rozvytok_osvyty_ta_shkylnyctva.md)
-       * [Архітектура й містобудування](9/arhytektura_ta_mystobuduvanya.md)
-       * [Скульптура та живопис](9/skulptura_ta_zhyvopus.md)
    * [Підсумок](9/pidsumok.md)

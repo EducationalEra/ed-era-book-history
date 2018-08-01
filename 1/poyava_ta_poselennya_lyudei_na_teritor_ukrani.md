@@ -25,7 +25,7 @@
     <p>Людство зародилося</p>
         <answer>у центрі Африки</answer>
         <answer>у Північній Америці</answer>
-        <answer correct>на півдні Африки</answer>
+        <answer correct>у південно-східній Африці</answer>
         <answer>у південно-східній Азії</answer>
     </question>
     <question>
